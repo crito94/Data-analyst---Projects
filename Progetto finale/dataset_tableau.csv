@@ -1,0 +1,1000 @@
+read_date,user_uuid,category,journalist_id,language,length,country,subscription_date,platform,article_id,stars,read_month,user_type,total_reads,unique_categories,cluster,persona
+2023-02-22,190,art,122,fr,short,fr,2021-06-28,pc,511945,5,2023-02,Moderato,5,4,0,Esploratore
+2021-02-25,243,art,117,it,short,it,2020-08-24,tablet,5128,3,2021-02,Moderato,3,3,1,Esploratore
+2023-12-19,36,weather,115,en,long,uk,2021-02-07,tablet,733403,5,2023-12,Occasionale,2,2,1,Mordi e Fuggi
+2023-03-27,162,finance,111,it,short,it,2022-09-06,tablet,612638,1,2023-03,Moderato,5,3,0,Esploratore
+2023-10-22,181,economy,119,fr,short,fr,2020-12-09,tablet,211458,3,2023-10,Fedele,10,6,2,Super Lettore
+2023-02-08,163,art,120,fr,long,fr,2022-11-28,tablet,531439,4,2023-02,Fedele,7,4,2,Super Lettore
+2022-02-18,170,finance,122,it,short,it,2021-10-07,mobile,612187,1,2022-02,Moderato,5,3,0,Esploratore
+2023-09-18,221,weather,110,en,medium,uk,2021-04-25,tablet,723993,5,2023-09,Fedele,7,5,2,Super Lettore
+2023-09-05,208,finance,117,en,medium,uk,2022-11-20,tablet,623177,2,2023-09,Fedele,6,3,0,Super Lettore
+2023-07-20,219,finance,116,it,short,it,2021-12-24,pc,6123,2,2023-07,Fedele,8,6,2,Super Lettore
+2023-05-21,206,weather,111,en,medium,uk,2020-11-07,pc,723610,4,2023-05,Moderato,4,2,1,Esploratore
+2023-08-13,90,sport,113,it,medium,it,2022-03-13,tablet,32252,2,2023-08,Fedele,8,3,2,Super Lettore
+2023-05-11,15,weather,107,en,long,uk,2022-05-13,pc,733412,2,2023-05,Fedele,6,5,0,Super Lettore
+2021-07-08,157,weather,111,it,long,it,2020-02-12,tablet,732766,5,2021-07,Fedele,12,6,2,Super Lettore
+2023-07-26,12,lifestyle,116,it,short,it,2022-08-21,mobile,112510,3,2023-07,Moderato,3,3,1,Esploratore
+2023-03-02,31,finance,117,it,medium,it,2022-09-07,tablet,622848,1,2023-03,Moderato,3,2,1,Esploratore
+2023-10-24,194,news,115,it,short,it,2021-08-21,mobile,612855,2,2023-10,Moderato,4,4,0,Esploratore
+2022-05-10,71,finance,104,it,long,it,2021-05-10,tablet,632401,1,2022-05,Moderato,5,3,0,Esploratore
+2021-04-17,181,sport,114,en,short,uk,2020-12-09,pc,313130,1,2021-04,Fedele,10,6,2,Super Lettore
+2023-09-17,242,finance,115,fr,long,fr,2021-10-06,tablet,631847,1,2023-09,Occasionale,2,1,1,Mordi e Fuggi
+2022-08-26,50,weather,106,en,short,uk,2021-02-18,pc,713623,3,2022-08,Moderato,3,2,1,Esploratore
+2023-04-08,105,news,105,en,long,uk,2022-01-25,mobile,633862,2,2023-04,Moderato,5,4,0,Esploratore
+2023-03-01,157,weather,109,fr,short,fr,2020-02-12,tablet,711175,3,2023-03,Fedele,12,6,2,Super Lettore
+2023-11-21,237,economy,103,fr,long,fr,2022-03-23,tablet,231516,1,2023-11,Fedele,6,4,0,Super Lettore
+2023-03-13,96,art,102,en,long,uk,2020-12-03,pc,5333,4,2023-03,Occasionale,1,1,1,Mordi e Fuggi
+2022-03-26,157,lifestyle,103,en,medium,uk,2020-02-12,pc,123924,5,2022-03,Fedele,12,6,2,Super Lettore
+2023-11-08,86,weather,121,it,medium,it,2022-11-14,tablet,722711,2,2023-11,Moderato,3,2,1,Esploratore
+2022-09-22,14,lifestyle,112,it,long,it,2021-01-14,tablet,132589,1,2022-09,Fedele,7,6,2,Super Lettore
+2022-06-20,102,sport,104,en,medium,uk,2021-05-10,tablet,323731,2,2022-06,Fedele,9,5,2,Super Lettore
+2023-08-05,154,economy,110,en,long,uk,2022-06-27,pc,233287,5,2023-08,Moderato,4,3,0,Esploratore
+2023-02-01,59,weather,101,fr,long,fr,2021-06-25,pc,731638,3,2023-02,Occasionale,2,2,1,Mordi e Fuggi
+2023-09-03,139,finance,122,en,short,uk,2020-03-28,mobile,613114,1,2023-09,Moderato,4,4,0,Esploratore
+2023-10-24,105,sport,117,it,medium,it,2022-01-25,mobile,32288,3,2023-10,Moderato,5,4,0,Esploratore
+2023-07-14,128,economy,120,fr,long,fr,2021-01-26,mobile,231707,4,2023-07,Moderato,4,4,0,Esploratore
+2023-09-27,75,sport,119,fr,long,fr,2021-07-20,tablet,331144,2,2023-09,Moderato,4,4,0,Esploratore
+2023-08-14,6,weather,112,en,long,uk,2020-09-14,tablet,733764,5,2023-08,Fedele,7,4,2,Super Lettore
+2023-03-26,131,weather,111,en,long,uk,2022-03-26,mobile,733527,3,2023-03,Moderato,5,3,0,Esploratore
+2023-02-05,86,weather,119,it,medium,it,2022-11-14,tablet,722863,4,2023-02,Moderato,3,2,1,Esploratore
+2022-05-12,85,sport,119,it,medium,it,2020-03-28,pc,322888,1,2022-05,Moderato,4,3,0,Esploratore
+2023-06-14,28,sport,104,it,short,it,2022-06-01,tablet,312161,1,2023-06,Moderato,5,3,0,Esploratore
+2022-11-28,205,economy,117,it,long,it,2021-01-22,tablet,23237,4,2022-11,Fedele,6,4,0,Super Lettore
+2023-03-20,22,weather,122,it,short,it,2022-01-25,pc,712243,2,2023-03,Moderato,4,2,1,Esploratore
+2023-05-03,142,weather,105,it,long,it,2022-05-20,tablet,732667,3,2023-05,Fedele,6,3,0,Super Lettore
+2023-01-12,216,lifestyle,101,en,short,uk,2021-10-08,tablet,113178,5,2023-01,Occasionale,2,2,1,Mordi e Fuggi
+2022-11-16,173,economy,113,en,medium,uk,2021-12-12,pc,223181,1,2022-11,Moderato,3,2,1,Esploratore
+2023-07-12,143,finance,102,it,short,it,2022-05-22,pc,612396,2,2023-07,Fedele,6,2,0,Super Lettore
+2022-04-01,224,sport,112,en,long,uk,2020-06-04,tablet,333965,4,2022-04,Moderato,3,3,1,Esploratore
+2022-08-04,153,economy,109,fr,medium,fr,2020-06-14,pc,221256,1,2022-08,Occasionale,2,2,1,Mordi e Fuggi
+2022-11-13,115,sport,109,it,long,it,2020-01-08,mobile,332605,2,2022-11,Fedele,9,5,2,Super Lettore
+2023-02-02,211,sport,107,it,medium,it,2021-10-17,tablet,322289,2,2023-02,Moderato,5,2,0,Esploratore
+2023-09-27,25,finance,114,it,long,it,2021-10-28,mobile,63295,2,2023-09,Occasionale,2,2,1,Mordi e Fuggi
+2022-07-11,123,art,103,fr,short,fr,2021-09-19,tablet,511794,3,2022-07,Fedele,6,6,2,Super Lettore
+2023-11-13,157,finance,107,en,medium,uk,2020-02-12,mobile,623801,4,2023-11,Fedele,12,6,2,Super Lettore
+2023-12-03,26,sport,105,fr,short,fr,2021-07-20,pc,311354,1,2023-12,Moderato,4,3,0,Esploratore
+2023-03-19,134,weather,122,fr,long,fr,2022-11-20,pc,731609,4,2023-03,Moderato,3,3,1,Esploratore
+2022-08-10,226,art,112,fr,long,fr,2020-10-04,tablet,531592,4,2022-08,Fedele,6,3,0,Super Lettore
+2022-06-25,44,economy,107,fr,medium,fr,2020-12-09,tablet,221104,2,2022-06,Moderato,5,4,0,Esploratore
+2022-05-24,140,lifestyle,102,it,short,it,2021-10-03,tablet,11255,3,2022-05,Fedele,6,5,0,Super Lettore
+2023-11-01,162,news,111,en,medium,uk,2022-09-06,pc,623283,4,2023-11,Moderato,5,3,0,Esploratore
+2023-07-08,21,weather,114,fr,short,fr,2021-07-11,pc,711103,5,2023-07,Moderato,3,1,1,Esploratore
+2023-05-03,174,sport,122,it,medium,it,2022-02-12,mobile,322214,5,2023-05,Moderato,4,3,0,Esploratore
+2023-07-21,59,economy,106,fr,medium,fr,2021-06-25,tablet,221442,1,2023-07,Occasionale,2,2,1,Mordi e Fuggi
+2023-02-01,172,lifestyle,121,fr,short,fr,2020-04-22,pc,111237,3,2023-02,Fedele,6,4,0,Super Lettore
+2023-07-20,8,weather,122,it,short,it,2022-04-23,pc,71233,5,2023-07,Moderato,4,4,0,Esploratore
+2023-04-26,14,lifestyle,113,it,short,it,2021-01-14,tablet,11218,2,2023-04,Fedele,7,6,2,Super Lettore
+2023-03-22,237,finance,120,en,long,uk,2022-03-23,pc,633207,4,2023-03,Fedele,6,4,0,Super Lettore
+2022-04-06,89,art,118,it,long,it,2020-01-02,tablet,532729,3,2022-04,Moderato,3,2,1,Esploratore
+2021-11-17,138,finance,111,it,short,it,2020-04-06,pc,612403,3,2021-11,Moderato,4,4,0,Esploratore
+2021-10-04,94,news,103,it,long,it,2020-03-24,pc,632117,5,2021-10,Fedele,6,4,0,Super Lettore
+2023-11-09,4,finance,104,it,short,it,2022-05-10,pc,612238,1,2023-11,Occasionale,2,2,1,Mordi e Fuggi
+2023-07-05,184,finance,103,it,long,it,2022-08-11,tablet,632698,1,2023-07,Moderato,3,3,1,Esploratore
+2022-12-24,71,weather,117,en,long,uk,2021-05-10,pc,733751,3,2022-12,Moderato,5,3,0,Esploratore
+2023-07-16,238,weather,111,it,long,it,2020-09-16,pc,732283,1,2023-07,Moderato,4,3,0,Esploratore
+2023-12-22,196,weather,101,en,long,uk,2022-06-04,tablet,733494,2,2023-12,Moderato,4,4,0,Esploratore
+2022-07-21,18,sport,113,en,short,uk,2021-12-14,pc,313420,4,2022-07,Fedele,9,4,2,Super Lettore
+2023-03-24,201,sport,101,fr,long,fr,2022-11-25,tablet,331602,5,2023-03,Moderato,3,3,1,Esploratore
+2022-02-04,181,weather,122,fr,short,fr,2020-12-09,mobile,711982,3,2022-02,Fedele,10,6,2,Super Lettore
+2023-05-14,133,art,122,it,medium,it,2022-07-19,mobile,522330,2,2023-05,Moderato,4,3,0,Esploratore
+2023-09-03,241,weather,111,en,medium,uk,2022-05-11,tablet,723532,1,2023-09,Fedele,10,4,2,Super Lettore
+2023-03-18,195,weather,117,it,long,it,2022-12-09,mobile,732651,1,2023-03,Fedele,6,3,0,Super Lettore
+2022-01-14,212,economy,112,en,short,uk,2020-02-27,pc,213241,3,2022-01,Moderato,3,3,1,Esploratore
+2022-03-24,78,economy,119,it,medium,it,2021-02-24,mobile,22256,2,2022-03,Occasionale,2,2,1,Mordi e Fuggi
+2022-03-15,138,art,102,it,medium,it,2020-04-06,mobile,522231,1,2022-03,Moderato,4,4,0,Esploratore
+2022-01-22,24,weather,112,it,short,it,2020-09-09,mobile,712396,4,2022-01,Moderato,3,3,1,Esploratore
+2022-06-01,40,finance,119,en,long,uk,2021-09-08,tablet,633378,5,2022-06,Fedele,6,4,0,Super Lettore
+2022-08-07,149,weather,101,fr,medium,fr,2020-05-11,pc,721610,2,2022-08,Fedele,6,4,0,Super Lettore
+2023-09-04,213,sport,100,it,short,it,2021-09-24,tablet,312674,3,2023-09,Occasionale,1,1,1,Mordi e Fuggi
+2023-06-28,19,weather,116,it,medium,it,2020-04-12,pc,72285,3,2023-06,Fedele,6,2,0,Super Lettore
+2023-06-25,95,weather,111,fr,short,fr,2022-03-10,tablet,711542,2,2023-06,Moderato,3,3,1,Esploratore
+2022-08-09,19,weather,101,fr,short,fr,2020-04-12,pc,711699,4,2022-08,Fedele,6,2,0,Super Lettore
+2021-07-27,69,finance,106,it,medium,it,2020-08-23,tablet,622487,4,2021-07,Moderato,4,3,0,Esploratore
+2023-07-24,237,finance,109,it,long,it,2022-03-23,tablet,632945,4,2023-07,Fedele,6,4,0,Super Lettore
+2021-07-01,98,weather,103,it,long,it,2020-09-26,mobile,732585,5,2021-07,Fedele,10,5,2,Super Lettore
+2023-07-01,210,finance,107,fr,short,fr,2022-09-24,pc,611674,2,2023-07,Moderato,4,4,0,Esploratore
+2022-03-15,42,economy,106,en,long,uk,2021-03-06,tablet,233810,3,2022-03,Moderato,3,3,1,Esploratore
+2022-11-25,26,sport,118,en,long,uk,2021-07-20,tablet,333585,1,2022-11,Moderato,4,3,0,Esploratore
+2023-12-07,188,finance,100,en,long,uk,2022-06-13,pc,633510,4,2023-12,Fedele,6,3,0,Super Lettore
+2023-05-01,210,art,105,it,long,it,2022-09-24,pc,532701,1,2023-05,Moderato,4,4,0,Esploratore
+2023-04-28,6,weather,101,fr,long,fr,2020-09-14,tablet,731486,2,2023-04,Fedele,7,4,2,Super Lettore
+2023-04-03,166,news,113,it,short,it,2021-07-22,tablet,612409,5,2023-04,Moderato,4,4,0,Esploratore
+2021-07-09,138,economy,108,fr,short,fr,2020-04-06,pc,211653,2,2021-07,Moderato,4,4,0,Esploratore
+2022-11-07,17,news,109,it,short,it,2021-07-02,mobile,612483,1,2022-11,Moderato,3,3,1,Esploratore
+2022-06-05,186,finance,104,it,short,it,2020-08-12,mobile,612856,2,2022-06,Moderato,4,4,0,Esploratore
+2023-06-15,231,lifestyle,104,fr,medium,fr,2022-01-03,pc,121599,3,2023-06,Moderato,3,2,1,Esploratore
+2023-09-19,28,sport,102,it,long,it,2022-06-01,tablet,332749,5,2023-09,Moderato,5,3,0,Esploratore
+2023-07-08,241,weather,101,it,long,it,2022-05-11,tablet,732939,1,2023-07,Fedele,10,4,2,Super Lettore
+2023-12-16,219,news,106,it,long,it,2021-12-24,pc,632102,2,2023-12,Fedele,8,6,2,Super Lettore
+2023-04-10,200,weather,109,en,short,uk,2022-03-24,pc,713958,4,2023-04,Moderato,3,3,1,Esploratore
+2023-01-17,195,sport,100,fr,long,fr,2022-12-09,tablet,331309,3,2023-01,Fedele,6,3,0,Super Lettore
+2023-08-16,79,lifestyle,107,en,short,uk,2020-12-12,pc,113719,4,2023-08,Moderato,3,3,1,Esploratore
+2022-08-08,38,finance,119,it,long,it,2021-01-02,pc,632253,1,2022-08,Moderato,4,2,1,Esploratore
+2023-08-28,183,economy,112,en,long,uk,2021-08-20,mobile,233490,4,2023-08,Moderato,5,4,0,Esploratore
+2023-09-06,117,finance,111,it,long,it,2020-07-13,tablet,6322,2,2023-09,Occasionale,2,1,1,Mordi e Fuggi
+2022-05-03,93,economy,112,it,medium,it,2021-07-04,pc,222402,4,2022-05,Moderato,5,4,0,Esploratore
+2023-04-21,72,sport,114,en,short,uk,2022-10-12,tablet,313765,3,2023-04,Fedele,7,5,2,Super Lettore
+2022-02-10,140,weather,114,fr,short,fr,2021-10-03,tablet,711107,5,2022-02,Fedele,6,5,0,Super Lettore
+2023-10-24,163,weather,106,it,short,it,2022-11-28,mobile,712337,2,2023-10,Fedele,7,4,2,Super Lettore
+2023-10-04,31,weather,104,it,medium,it,2022-09-07,pc,722525,1,2023-10,Moderato,3,2,1,Esploratore
+2023-08-26,51,weather,107,it,long,it,2022-07-09,tablet,73243,4,2023-08,Fedele,10,6,2,Super Lettore
+2022-09-12,218,weather,103,it,medium,it,2021-02-16,tablet,722248,1,2022-09,Moderato,4,3,0,Esploratore
+2023-11-19,95,lifestyle,108,it,short,it,2022-03-10,tablet,112535,5,2023-11,Moderato,3,3,1,Esploratore
+2023-01-26,23,weather,120,en,medium,uk,2021-09-20,mobile,723371,3,2023-01,Moderato,3,2,1,Esploratore
+2023-05-15,221,weather,109,it,long,it,2021-04-25,mobile,732430,3,2023-05,Fedele,7,5,2,Super Lettore
+2022-02-05,9,art,107,en,short,uk,2021-03-21,pc,513517,4,2022-02,Moderato,3,2,1,Esploratore
+2023-06-03,132,weather,118,en,long,uk,2022-07-25,tablet,733349,1,2023-06,Moderato,5,2,0,Esploratore
+2023-02-01,201,economy,102,fr,long,fr,2022-11-25,pc,231525,4,2023-02,Moderato,3,3,1,Esploratore
+2023-04-11,106,sport,111,en,long,uk,2022-12-23,pc,333924,1,2023-04,Fedele,6,4,0,Super Lettore
+2023-04-23,99,sport,106,it,short,it,2022-01-20,pc,312698,4,2023-04,Fedele,6,4,0,Super Lettore
+2023-07-24,168,news,102,fr,medium,fr,2022-10-15,tablet,621570,4,2023-07,Moderato,4,3,0,Esploratore
+2023-12-26,49,sport,104,fr,short,fr,2020-10-24,pc,311839,4,2023-12,Moderato,4,3,0,Esploratore
+2022-12-25,204,finance,102,it,medium,it,2021-07-27,pc,622344,4,2022-12,Moderato,3,3,1,Esploratore
+2023-04-22,81,finance,104,en,medium,uk,2022-08-23,pc,623586,1,2023-04,Moderato,3,2,1,Esploratore
+2023-10-25,105,finance,105,en,long,uk,2022-01-25,mobile,63365,5,2023-10,Moderato,5,4,0,Esploratore
+2022-03-20,187,finance,102,fr,long,fr,2020-05-03,mobile,631328,3,2022-03,Fedele,7,3,2,Super Lettore
+2021-05-13,206,economy,110,en,long,uk,2020-11-07,tablet,233755,2,2021-05,Moderato,4,2,1,Esploratore
+2021-10-27,6,economy,118,en,long,uk,2020-09-14,tablet,233155,1,2021-10,Fedele,7,4,2,Super Lettore
+2022-09-13,209,sport,113,it,long,it,2020-07-06,mobile,332525,2,2022-09,Fedele,7,4,2,Super Lettore
+2021-02-24,55,sport,117,en,medium,uk,2020-11-28,tablet,323950,2,2021-02,Occasionale,2,1,1,Mordi e Fuggi
+2023-11-10,109,finance,102,it,short,it,2022-08-08,mobile,612703,2,2023-11,Moderato,5,4,0,Esploratore
+2022-06-14,123,sport,109,it,long,it,2021-09-19,tablet,332489,1,2022-06,Fedele,6,6,2,Super Lettore
+2022-11-21,37,finance,105,it,long,it,2021-09-04,pc,632523,3,2022-11,Occasionale,2,1,1,Mordi e Fuggi
+2023-11-14,32,weather,108,en,long,uk,2022-03-07,pc,733929,3,2023-11,Occasionale,2,2,1,Mordi e Fuggi
+2022-04-06,102,weather,101,en,long,uk,2021-05-10,pc,733206,5,2022-04,Fedele,9,5,2,Super Lettore
+2022-09-28,121,sport,120,it,long,it,2020-11-03,tablet,332789,3,2022-09,Moderato,5,3,0,Esploratore
+2022-09-17,49,weather,110,it,long,it,2020-10-24,mobile,73297,2,2022-09,Moderato,4,3,0,Esploratore
+2022-02-03,144,sport,106,fr,short,fr,2020-04-13,mobile,311527,3,2022-02,Moderato,5,3,0,Esploratore
+2023-08-22,124,sport,110,it,long,it,2022-09-14,tablet,332539,4,2023-08,Occasionale,2,2,1,Mordi e Fuggi
+2022-09-07,115,finance,120,it,short,it,2020-01-08,tablet,612484,5,2022-09,Fedele,9,5,2,Super Lettore
+2022-06-14,175,finance,112,fr,medium,fr,2021-02-27,tablet,621847,1,2022-06,Moderato,4,4,0,Esploratore
+2023-02-18,94,weather,101,en,long,uk,2020-03-24,tablet,733682,3,2023-02,Fedele,6,4,0,Super Lettore
+2023-08-17,108,economy,113,en,short,uk,2021-12-08,tablet,213516,5,2023-08,Moderato,5,5,0,Esploratore
+2023-12-02,3,weather,118,it,medium,it,2020-07-22,mobile,722170,3,2023-12,Occasionale,1,1,1,Mordi e Fuggi
+2021-06-20,145,finance,111,en,long,uk,2020-01-13,mobile,633437,5,2021-06,Fedele,7,4,2,Super Lettore
+2022-09-24,166,economy,112,en,long,uk,2021-07-22,pc,233978,3,2022-09,Moderato,4,4,0,Esploratore
+2022-11-21,159,weather,108,fr,short,fr,2021-06-21,pc,711401,5,2022-11,Occasionale,2,2,1,Mordi e Fuggi
+2023-07-09,114,sport,108,en,medium,uk,2022-07-08,mobile,323637,1,2023-07,Fedele,7,4,2,Super Lettore
+2022-09-03,80,lifestyle,114,it,long,it,2021-07-07,tablet,132470,2,2022-09,Fedele,6,4,0,Super Lettore
+2023-05-21,169,news,101,en,short,uk,2021-06-16,pc,613775,5,2023-05,Moderato,5,4,0,Esploratore
+2023-01-26,101,news,101,fr,long,fr,2021-05-06,tablet,631561,4,2023-01,Moderato,4,4,0,Esploratore
+2023-10-21,215,weather,108,en,short,uk,2022-05-05,tablet,713749,2,2023-10,Moderato,4,4,0,Esploratore
+2023-07-03,135,weather,107,it,long,it,2021-08-16,pc,732958,1,2023-07,Fedele,8,3,2,Super Lettore
+2022-08-13,118,lifestyle,110,en,long,uk,2021-04-27,tablet,133131,5,2022-08,Moderato,5,4,0,Esploratore
+2023-07-10,90,weather,107,it,medium,it,2022-03-13,tablet,722678,2,2023-07,Fedele,8,3,2,Super Lettore
+2022-09-22,181,economy,115,fr,long,fr,2020-12-09,pc,231299,5,2022-09,Fedele,10,6,2,Super Lettore
+2022-09-23,102,lifestyle,113,it,long,it,2021-05-10,tablet,132960,3,2022-09,Fedele,9,5,2,Super Lettore
+2023-03-03,208,sport,114,en,medium,uk,2022-11-20,tablet,323379,4,2023-03,Fedele,6,3,0,Super Lettore
+2023-12-05,51,news,111,fr,long,fr,2022-07-09,mobile,631695,3,2023-12,Fedele,10,6,2,Super Lettore
+2023-04-10,185,weather,115,fr,long,fr,2020-10-21,tablet,731249,5,2023-04,Moderato,3,3,1,Esploratore
+2023-06-18,231,sport,105,it,short,it,2022-01-03,mobile,312533,5,2023-06,Moderato,3,2,1,Esploratore
+2022-02-09,7,weather,108,it,short,it,2021-09-01,tablet,712804,5,2022-02,Moderato,4,3,0,Esploratore
+2023-10-23,241,news,108,it,long,it,2022-05-11,tablet,632630,5,2023-10,Fedele,10,4,2,Super Lettore
+2023-09-24,126,news,116,en,long,uk,2022-03-02,tablet,633973,1,2023-09,Moderato,4,4,0,Esploratore
+2023-06-08,134,news,122,it,short,it,2022-11-20,tablet,612842,2,2023-06,Moderato,3,3,1,Esploratore
+2023-10-09,131,weather,103,en,long,uk,2022-03-26,mobile,733906,3,2023-10,Moderato,5,3,0,Esploratore
+2023-05-14,188,weather,116,en,long,uk,2022-06-13,tablet,73373,4,2023-05,Fedele,6,3,0,Super Lettore
+2023-08-25,28,news,114,fr,long,fr,2022-06-01,tablet,631209,2,2023-08,Moderato,5,3,0,Esploratore
+2022-05-25,146,economy,104,it,medium,it,2020-04-26,tablet,22299,2,2022-05,Fedele,6,3,0,Super Lettore
+2022-08-13,232,economy,110,fr,long,fr,2021-06-25,tablet,231165,2,2022-08,Fedele,6,3,0,Super Lettore
+2023-08-15,64,weather,114,it,short,it,2022-11-04,mobile,712487,1,2023-08,Moderato,4,4,0,Esploratore
+2023-12-12,106,weather,119,fr,long,fr,2022-12-23,pc,731413,1,2023-12,Fedele,6,4,0,Super Lettore
+2023-11-10,45,sport,104,it,long,it,2022-10-16,tablet,33261,1,2023-11,Moderato,4,4,0,Esploratore
+2023-04-14,222,news,122,en,medium,uk,2021-05-05,mobile,62334,5,2023-04,Moderato,4,4,0,Esploratore
+2022-01-07,108,lifestyle,100,it,medium,it,2021-12-08,tablet,122395,5,2022-01,Moderato,5,5,0,Esploratore
+2022-03-16,189,finance,113,it,long,it,2021-06-05,tablet,632174,4,2022-03,Moderato,4,3,0,Esploratore
+2023-02-09,126,sport,115,it,long,it,2022-03-02,mobile,332948,1,2023-02,Moderato,4,4,0,Esploratore
+2022-04-18,226,sport,104,en,medium,uk,2020-10-04,tablet,323161,3,2022-04,Fedele,6,3,0,Super Lettore
+2023-06-22,174,finance,120,en,short,uk,2022-02-12,pc,613155,5,2023-06,Moderato,4,3,0,Esploratore
+2022-10-24,226,weather,104,it,long,it,2020-10-04,mobile,73282,4,2022-10,Fedele,6,3,0,Super Lettore
+2023-10-27,141,sport,112,it,short,it,2021-05-23,tablet,312980,4,2023-10,Moderato,4,3,0,Esploratore
+2021-12-06,209,sport,102,it,long,it,2020-07-06,mobile,332441,1,2021-12,Fedele,7,4,2,Super Lettore
+2023-02-03,177,weather,104,it,long,it,2022-03-17,mobile,732307,5,2023-02,Moderato,5,3,0,Esploratore
+2021-08-01,146,finance,104,it,long,it,2020-04-26,mobile,632262,5,2021-08,Fedele,6,3,0,Super Lettore
+2022-06-11,147,art,107,en,medium,uk,2021-02-21,tablet,523222,4,2022-06,Fedele,6,4,0,Super Lettore
+2023-02-28,227,sport,122,it,medium,it,2022-02-17,tablet,322599,5,2023-02,Occasionale,2,2,1,Mordi e Fuggi
+2022-08-14,169,sport,120,en,long,uk,2021-06-16,pc,333411,2,2022-08,Moderato,5,4,0,Esploratore
+2023-10-16,84,news,110,fr,medium,fr,2020-06-09,pc,621327,5,2023-10,Moderato,3,2,1,Esploratore
+2022-11-12,76,sport,121,en,medium,uk,2020-05-14,tablet,32352,1,2022-11,Moderato,4,3,0,Esploratore
+2022-03-12,123,finance,115,it,long,it,2021-09-19,tablet,632422,4,2022-03,Fedele,6,6,2,Super Lettore
+2022-03-14,34,sport,105,fr,short,fr,2020-12-10,mobile,311890,1,2022-03,Fedele,6,3,0,Super Lettore
+2023-11-12,187,finance,113,en,short,uk,2020-05-03,mobile,613101,3,2023-11,Fedele,7,3,2,Super Lettore
+2023-05-18,239,news,115,fr,short,fr,2020-02-04,tablet,611367,3,2023-05,Moderato,5,3,0,Esploratore
+2021-07-24,94,economy,118,en,medium,uk,2020-03-24,mobile,223652,1,2021-07,Fedele,6,4,0,Super Lettore
+2023-06-10,208,economy,120,it,long,it,2022-11-20,mobile,232622,3,2023-06,Fedele,6,3,0,Super Lettore
+2023-12-21,188,sport,119,it,short,it,2022-06-13,tablet,312886,2,2023-12,Fedele,6,3,0,Super Lettore
+2023-02-10,72,finance,110,en,short,uk,2022-10-12,tablet,613579,5,2023-02,Fedele,7,5,2,Super Lettore
+2022-07-17,170,finance,117,it,long,it,2021-10-07,mobile,632803,4,2022-07,Moderato,5,3,0,Esploratore
+2021-03-08,94,art,106,en,short,uk,2020-03-24,tablet,513957,3,2021-03,Fedele,6,4,0,Super Lettore
+2023-01-20,45,economy,122,it,long,it,2022-10-16,tablet,232372,3,2023-01,Moderato,4,4,0,Esploratore
+2023-10-26,85,weather,106,fr,medium,fr,2020-03-28,pc,721592,3,2023-10,Moderato,4,3,0,Esploratore
+2022-12-21,186,economy,112,en,medium,uk,2020-08-12,mobile,223853,4,2022-12,Moderato,4,4,0,Esploratore
+2023-02-13,132,sport,101,it,long,it,2022-07-25,tablet,332357,3,2023-02,Moderato,5,2,0,Esploratore
+2023-10-10,182,economy,117,it,medium,it,2020-03-14,pc,222593,5,2023-10,Moderato,3,3,1,Esploratore
+2023-09-02,40,sport,113,it,short,it,2021-09-08,tablet,312173,3,2023-09,Fedele,6,4,0,Super Lettore
+2023-01-16,131,sport,115,it,long,it,2022-03-26,pc,332840,2,2023-01,Moderato,5,3,0,Esploratore
+2023-05-24,10,weather,106,en,short,uk,2022-08-05,tablet,713116,1,2023-05,Moderato,5,3,0,Esploratore
+2022-01-07,225,weather,115,it,long,it,2020-12-25,tablet,732446,1,2022-01,Occasionale,1,1,1,Mordi e Fuggi
+2023-06-20,13,sport,110,fr,short,fr,2022-05-22,mobile,311575,4,2023-06,Fedele,10,5,2,Super Lettore
+2023-05-27,40,weather,110,it,short,it,2021-09-08,tablet,712881,5,2023-05,Fedele,6,4,0,Super Lettore
+2021-01-09,53,lifestyle,114,it,short,it,2020-10-08,pc,112451,2,2021-01,Occasionale,2,1,1,Mordi e Fuggi
+2022-02-24,108,weather,110,en,short,uk,2021-12-08,tablet,713382,1,2022-02,Moderato,5,5,0,Esploratore
+2022-07-05,103,weather,109,en,long,uk,2020-03-25,mobile,733844,4,2022-07,Moderato,5,3,0,Esploratore
+2023-08-07,82,weather,111,it,medium,it,2022-01-21,pc,72228,1,2023-08,Fedele,6,4,0,Super Lettore
+2023-12-12,109,weather,103,it,long,it,2022-08-08,tablet,732800,1,2023-12,Moderato,5,4,0,Esploratore
+2023-09-25,193,sport,106,en,long,uk,2021-11-14,pc,333855,3,2023-09,Moderato,4,3,0,Esploratore
+2023-09-14,163,sport,112,en,short,uk,2022-11-28,pc,313955,5,2023-09,Fedele,7,4,2,Super Lettore
+2023-04-02,237,weather,107,it,short,it,2022-03-23,tablet,712682,4,2023-04,Fedele,6,4,0,Super Lettore
+2023-05-14,8,sport,107,it,short,it,2022-04-23,mobile,312361,3,2023-05,Moderato,4,4,0,Esploratore
+2023-06-25,243,weather,100,it,short,it,2020-08-24,tablet,712970,2,2023-06,Moderato,3,3,1,Esploratore
+2023-07-17,193,weather,106,it,long,it,2021-11-14,pc,732839,5,2023-07,Moderato,4,3,0,Esploratore
+2023-12-04,109,news,118,en,short,uk,2022-08-08,pc,613985,3,2023-12,Moderato,5,4,0,Esploratore
+2023-07-03,142,economy,105,en,long,uk,2022-05-20,tablet,233717,1,2023-07,Fedele,6,3,0,Super Lettore
+2023-03-23,100,news,100,fr,long,fr,2022-02-02,tablet,631589,2,2023-03,Fedele,6,3,0,Super Lettore
+2023-10-28,73,news,100,fr,long,fr,2020-11-14,pc,631371,2,2023-10,Moderato,5,3,0,Esploratore
+2023-09-16,142,finance,100,fr,long,fr,2022-05-20,pc,631728,2,2023-09,Fedele,6,3,0,Super Lettore
+2023-04-15,244,news,100,en,long,uk,2021-05-25,tablet,633904,4,2023-04,Moderato,3,2,1,Esploratore
+2023-01-02,233,sport,107,fr,long,fr,2021-06-11,mobile,331822,4,2023-01,Moderato,4,4,0,Esploratore
+2023-09-22,142,weather,121,en,short,uk,2022-05-20,tablet,713631,5,2023-09,Fedele,6,3,0,Super Lettore
+2022-02-25,194,finance,112,fr,short,fr,2021-08-21,mobile,611847,3,2022-02,Moderato,4,4,0,Esploratore
+2023-10-23,4,weather,117,en,long,uk,2022-05-10,tablet,733450,2,2023-10,Occasionale,2,2,1,Mordi e Fuggi
+2023-04-01,101,weather,112,it,long,it,2021-05-06,pc,732444,1,2023-04,Moderato,4,4,0,Esploratore
+2023-02-05,6,finance,115,it,long,it,2020-09-14,tablet,63265,3,2023-02,Fedele,7,4,2,Super Lettore
+2023-01-25,193,economy,115,it,short,it,2021-11-14,mobile,212468,4,2023-01,Moderato,4,3,0,Esploratore
+2022-01-08,135,weather,121,en,long,uk,2021-08-16,tablet,733687,3,2022-01,Fedele,8,3,2,Super Lettore
+2023-03-01,44,news,107,en,long,uk,2020-12-09,tablet,633267,4,2023-03,Moderato,5,4,0,Esploratore
+2023-07-21,22,lifestyle,117,en,long,uk,2022-01-25,pc,133714,2,2023-07,Moderato,4,2,1,Esploratore
+2023-05-26,57,finance,120,fr,short,fr,2020-07-11,pc,611851,4,2023-05,Moderato,5,4,0,Esploratore
+2022-07-12,66,finance,108,en,short,uk,2020-03-19,pc,613130,4,2022-07,Moderato,4,3,0,Esploratore
+2022-04-04,144,weather,108,it,short,it,2020-04-13,pc,712928,4,2022-04,Moderato,5,3,0,Esploratore
+2022-11-05,14,sport,117,it,long,it,2021-01-14,tablet,332335,1,2022-11,Fedele,7,6,2,Super Lettore
+2022-06-07,98,finance,101,fr,short,fr,2020-09-26,pc,611266,5,2022-06,Fedele,10,5,2,Super Lettore
+2023-02-06,93,sport,117,en,medium,uk,2021-07-04,tablet,323835,2,2023-02,Moderato,5,4,0,Esploratore
+2023-10-20,140,art,113,en,long,uk,2021-10-03,mobile,533864,4,2023-10,Fedele,6,5,0,Super Lettore
+2023-01-19,63,sport,115,fr,long,fr,2020-02-27,tablet,33177,3,2023-01,Occasionale,2,2,1,Mordi e Fuggi
+2023-11-28,228,sport,114,fr,long,fr,2022-05-23,pc,33121,3,2023-11,Moderato,3,3,1,Esploratore
+2023-11-22,41,lifestyle,114,fr,long,fr,2021-08-01,tablet,131416,5,2023-11,Moderato,5,4,0,Esploratore
+2023-02-04,35,weather,107,en,medium,uk,2022-07-19,pc,723444,3,2023-02,Moderato,5,3,0,Esploratore
+2023-09-16,135,economy,112,fr,long,fr,2021-08-16,tablet,231328,2,2023-09,Fedele,8,3,2,Super Lettore
+2023-12-13,5,news,117,fr,medium,fr,2022-01-25,tablet,621389,3,2023-12,Moderato,4,3,0,Esploratore
+2023-04-07,179,finance,112,it,long,it,2022-04-13,mobile,632840,1,2023-04,Moderato,4,2,1,Esploratore
+2023-02-23,99,weather,114,en,short,uk,2022-01-20,tablet,713408,3,2023-02,Fedele,6,4,0,Super Lettore
+2021-09-17,39,lifestyle,110,it,long,it,2020-08-03,pc,132524,3,2021-09,Fedele,8,4,2,Super Lettore
+2023-08-23,90,sport,103,it,long,it,2022-03-13,tablet,332148,3,2023-08,Fedele,8,3,2,Super Lettore
+2023-12-03,2,weather,111,it,long,it,2022-01-06,tablet,732230,4,2023-12,Fedele,6,5,0,Super Lettore
+2023-11-12,99,news,119,fr,short,fr,2022-01-20,pc,611753,5,2023-11,Fedele,6,4,0,Super Lettore
+2023-04-19,52,sport,103,en,medium,uk,2022-03-15,mobile,323974,4,2023-04,Moderato,4,2,1,Esploratore
+2021-09-25,60,sport,101,en,long,uk,2020-11-10,pc,333824,1,2021-09,Moderato,3,3,1,Esploratore
+2023-08-01,179,weather,102,en,long,uk,2022-04-13,tablet,733605,5,2023-08,Moderato,4,2,1,Esploratore
+2021-12-13,76,lifestyle,122,en,long,uk,2020-05-14,mobile,133165,5,2021-12,Moderato,4,3,0,Esploratore
+2021-08-11,19,weather,112,it,long,it,2020-04-12,tablet,732220,2,2021-08,Fedele,6,2,0,Super Lettore
+2022-06-03,193,weather,118,it,long,it,2021-11-14,pc,732467,1,2022-06,Moderato,4,3,0,Esploratore
+2023-10-13,160,art,112,fr,short,fr,2021-01-01,pc,511951,4,2023-10,Moderato,3,3,1,Esploratore
+2022-09-13,147,weather,109,it,long,it,2021-02-21,tablet,732955,5,2022-09,Fedele,6,4,0,Super Lettore
+2022-11-17,18,sport,106,it,long,it,2021-12-14,pc,33259,2,2022-11,Fedele,9,4,2,Super Lettore
+2023-06-18,147,weather,118,fr,long,fr,2021-02-21,mobile,7311000,3,2023-06,Fedele,6,4,0,Super Lettore
+2022-07-17,80,economy,107,fr,short,fr,2021-07-07,mobile,21124,1,2022-07,Fedele,6,4,0,Super Lettore
+2022-03-10,19,sport,121,it,short,it,2020-04-12,tablet,312201,1,2022-03,Fedele,6,2,0,Super Lettore
+2022-08-04,40,weather,122,it,long,it,2021-09-08,tablet,732108,3,2022-08,Fedele,6,4,0,Super Lettore
+2023-08-02,22,lifestyle,109,it,long,it,2022-01-25,mobile,132740,5,2023-08,Moderato,4,2,1,Esploratore
+2021-09-04,202,news,122,en,long,uk,2020-02-04,tablet,63327,1,2021-09,Occasionale,2,2,1,Mordi e Fuggi
+2023-05-23,131,finance,102,en,short,uk,2022-03-26,tablet,613455,1,2023-05,Moderato,5,3,0,Esploratore
+2023-12-06,31,weather,103,it,long,it,2022-09-07,mobile,732716,3,2023-12,Moderato,3,2,1,Esploratore
+2022-03-23,240,news,115,en,long,uk,2021-01-15,tablet,633696,4,2022-03,Fedele,6,4,0,Super Lettore
+2023-04-22,208,sport,100,fr,long,fr,2022-11-20,mobile,331682,2,2023-04,Fedele,6,3,0,Super Lettore
+2022-11-27,183,economy,116,fr,short,fr,2021-08-20,pc,211945,4,2022-11,Moderato,5,4,0,Esploratore
+2023-11-14,240,weather,117,en,short,uk,2021-01-15,tablet,713105,3,2023-11,Fedele,6,4,0,Super Lettore
+2023-04-19,122,weather,110,en,medium,uk,2022-12-17,pc,723634,4,2023-04,Moderato,4,2,1,Esploratore
+2021-03-28,66,weather,104,fr,short,fr,2020-03-19,tablet,711216,4,2021-03,Moderato,4,3,0,Esploratore
+2023-05-13,86,sport,119,fr,short,fr,2022-11-14,mobile,311691,5,2023-05,Moderato,3,2,1,Esploratore
+2023-02-21,157,weather,103,it,medium,it,2020-02-12,mobile,722851,4,2023-02,Fedele,12,6,2,Super Lettore
+2023-01-02,114,economy,105,it,short,it,2022-07-08,tablet,212698,1,2023-01,Fedele,7,4,2,Super Lettore
+2022-07-26,107,sport,107,en,long,uk,2020-11-14,tablet,333502,3,2022-07,Occasionale,2,1,1,Mordi e Fuggi
+2023-08-13,210,economy,118,en,short,uk,2022-09-24,tablet,213307,1,2023-08,Moderato,4,4,0,Esploratore
+2022-01-10,101,finance,114,it,long,it,2021-05-06,tablet,632202,4,2022-01,Moderato,4,4,0,Esploratore
+2023-12-28,144,sport,110,it,short,it,2020-04-13,tablet,312601,5,2023-12,Moderato,5,3,0,Esploratore
+2023-11-08,128,sport,109,fr,short,fr,2021-01-26,pc,311907,3,2023-11,Moderato,4,4,0,Esploratore
+2023-07-13,167,finance,114,it,medium,it,2022-09-27,mobile,622568,1,2023-07,Moderato,3,2,1,Esploratore
+2022-10-13,92,news,109,fr,long,fr,2021-10-24,tablet,631275,2,2022-10,Occasionale,2,1,1,Mordi e Fuggi
+2022-07-21,166,weather,110,fr,short,fr,2021-07-22,mobile,711996,2,2022-07,Moderato,4,4,0,Esploratore
+2023-03-03,176,sport,118,en,short,uk,2021-01-07,mobile,313415,5,2023-03,Occasionale,2,2,1,Mordi e Fuggi
+2022-08-12,159,news,109,en,long,uk,2021-06-21,mobile,6332,3,2022-08,Occasionale,2,2,1,Mordi e Fuggi
+2021-10-12,185,news,114,it,long,it,2020-10-21,tablet,632880,5,2021-10,Moderato,3,3,1,Esploratore
+2023-10-13,90,news,116,fr,short,fr,2022-03-13,pc,611663,3,2023-10,Fedele,8,3,2,Super Lettore
+2022-08-25,108,art,121,en,short,uk,2021-12-08,tablet,513232,2,2022-08,Moderato,5,5,0,Esploratore
+2023-06-27,192,sport,118,fr,medium,fr,2020-05-01,tablet,321873,2,2023-06,Moderato,4,2,1,Esploratore
+2023-03-26,9,art,122,it,long,it,2021-03-21,tablet,532559,4,2023-03,Moderato,3,2,1,Esploratore
+2023-01-21,47,weather,121,fr,short,fr,2022-08-10,pc,711584,4,2023-01,Moderato,4,3,0,Esploratore
+2022-11-08,121,news,103,it,short,it,2020-11-03,tablet,612403,5,2022-11,Moderato,5,3,0,Esploratore
+2023-11-12,157,economy,119,it,short,it,2020-02-12,tablet,212923,5,2023-11,Fedele,12,6,2,Super Lettore
+2023-10-06,239,sport,102,en,short,uk,2020-02-04,tablet,313472,4,2023-10,Moderato,5,3,0,Esploratore
+2022-10-07,149,weather,101,it,long,it,2020-05-11,tablet,732793,1,2022-10,Fedele,6,4,0,Super Lettore
+2021-10-05,192,sport,104,fr,short,fr,2020-05-01,pc,311926,2,2021-10,Moderato,4,2,1,Esploratore
+2023-11-12,154,sport,113,en,short,uk,2022-06-27,tablet,313141,4,2023-11,Moderato,4,3,0,Esploratore
+2022-12-11,161,sport,119,it,long,it,2021-10-23,tablet,332883,1,2022-12,Moderato,3,2,1,Esploratore
+2023-12-01,134,finance,122,it,short,it,2022-11-20,pc,612149,3,2023-12,Moderato,3,3,1,Esploratore
+2023-08-02,90,weather,120,en,long,uk,2022-03-13,pc,733478,3,2023-08,Fedele,8,3,2,Super Lettore
+2023-01-12,233,finance,116,en,long,uk,2021-06-11,pc,633679,4,2023-01,Moderato,4,4,0,Esploratore
+2022-05-10,102,weather,112,en,short,uk,2021-05-10,tablet,713380,1,2022-05,Fedele,9,5,2,Super Lettore
+2022-10-07,147,weather,119,it,long,it,2021-02-21,pc,732807,3,2022-10,Fedele,6,4,0,Super Lettore
+2021-06-02,110,weather,110,it,medium,it,2020-01-06,pc,722139,4,2021-06,Moderato,3,3,1,Esploratore
+2021-09-12,223,weather,104,it,medium,it,2020-12-01,pc,722706,2,2021-09,Occasionale,2,2,1,Mordi e Fuggi
+2023-09-05,188,weather,122,it,medium,it,2022-06-13,tablet,722397,5,2023-09,Fedele,6,3,0,Super Lettore
+2022-01-21,219,lifestyle,122,fr,long,fr,2021-12-24,pc,131218,1,2022-01,Fedele,8,6,2,Super Lettore
+2022-03-08,135,weather,113,en,medium,uk,2021-08-16,mobile,723441,2,2022-03,Fedele,8,3,2,Super Lettore
+2023-08-06,35,weather,111,it,medium,it,2022-07-19,mobile,722671,1,2023-08,Moderato,5,3,0,Esploratore
+2023-06-20,114,finance,121,it,long,it,2022-07-08,tablet,632276,2,2023-06,Fedele,7,4,2,Super Lettore
+2022-06-15,229,art,111,it,long,it,2021-04-24,tablet,532957,3,2022-06,Moderato,5,5,0,Esploratore
+2022-03-26,44,weather,118,it,short,it,2020-12-09,tablet,712659,4,2022-03,Moderato,5,4,0,Esploratore
+2021-08-03,115,finance,115,en,medium,uk,2020-01-08,pc,623947,1,2021-08,Fedele,9,5,2,Super Lettore
+2023-07-01,122,weather,113,it,long,it,2022-12-17,tablet,732873,5,2023-07,Moderato,4,2,1,Esploratore
+2023-05-06,100,news,100,en,long,uk,2022-02-02,pc,633539,2,2023-05,Fedele,6,3,0,Super Lettore
+2021-10-23,60,finance,105,it,short,it,2020-11-10,mobile,612498,2,2021-10,Moderato,3,3,1,Esploratore
+2023-07-04,143,finance,121,it,long,it,2022-05-22,mobile,632299,3,2023-07,Fedele,6,2,0,Super Lettore
+2022-09-14,238,sport,106,it,short,it,2020-09-16,tablet,312698,4,2022-09,Moderato,4,3,0,Esploratore
+2023-09-04,38,weather,106,it,long,it,2021-01-02,mobile,732628,2,2023-09,Moderato,4,2,1,Esploratore
+2022-11-08,207,lifestyle,111,it,short,it,2020-01-11,tablet,112255,3,2022-11,Moderato,4,3,0,Esploratore
+2023-01-18,163,sport,109,en,long,uk,2022-11-28,tablet,333937,4,2023-01,Fedele,7,4,2,Super Lettore
+2023-02-04,13,weather,117,it,short,it,2022-05-22,mobile,712645,4,2023-02,Fedele,10,5,2,Super Lettore
+2023-03-08,216,finance,114,it,long,it,2021-10-08,pc,632774,4,2023-03,Occasionale,2,2,1,Mordi e Fuggi
+2023-10-20,95,art,107,it,long,it,2022-03-10,mobile,53267,5,2023-10,Moderato,3,3,1,Esploratore
+2022-04-10,135,weather,121,it,long,it,2021-08-16,pc,732193,3,2022-04,Fedele,8,3,2,Super Lettore
+2023-10-26,99,sport,119,it,long,it,2022-01-20,tablet,332668,3,2023-10,Fedele,6,4,0,Super Lettore
+2022-12-21,60,news,111,fr,long,fr,2020-11-10,pc,631837,4,2022-12,Moderato,3,3,1,Esploratore
+2022-07-01,147,sport,100,en,medium,uk,2021-02-21,tablet,32394,1,2022-07,Fedele,6,4,0,Super Lettore
+2023-09-16,139,sport,110,fr,short,fr,2020-03-28,tablet,31116,2,2023-09,Moderato,4,4,0,Esploratore
+2023-04-20,36,sport,106,it,short,it,2021-02-07,tablet,312139,5,2023-04,Occasionale,2,2,1,Mordi e Fuggi
+2023-12-12,50,economy,120,it,long,it,2021-02-18,tablet,232788,5,2023-12,Moderato,3,2,1,Esploratore
+2022-04-14,158,news,100,en,short,uk,2020-03-18,tablet,613354,2,2022-04,Moderato,3,3,1,Esploratore
+2023-04-17,142,finance,116,en,short,uk,2022-05-20,mobile,613547,1,2023-04,Fedele,6,3,0,Super Lettore
+2023-04-22,10,finance,116,fr,medium,fr,2022-08-05,tablet,621245,3,2023-04,Moderato,5,3,0,Esploratore
+2023-06-28,72,sport,108,en,long,uk,2022-10-12,tablet,333454,4,2023-06,Fedele,7,5,2,Super Lettore
+2023-11-18,131,finance,117,it,long,it,2022-03-26,tablet,632438,5,2023-11,Moderato,5,3,0,Esploratore
+2021-11-16,34,sport,101,en,long,uk,2020-12-10,pc,333997,2,2021-11,Fedele,6,3,0,Super Lettore
+2022-07-24,77,lifestyle,112,en,short,uk,2020-06-01,tablet,113475,2,2022-07,Moderato,5,4,0,Esploratore
+2023-06-09,151,news,118,it,long,it,2020-12-02,tablet,63284,4,2023-06,Fedele,6,5,0,Super Lettore
+2022-09-21,222,sport,105,it,short,it,2021-05-05,mobile,312542,2,2022-09,Moderato,4,4,0,Esploratore
+2022-10-05,189,weather,105,it,long,it,2021-06-05,tablet,732953,5,2022-10,Moderato,4,3,0,Esploratore
+2022-07-13,172,sport,111,it,short,it,2020-04-22,pc,312141,3,2022-07,Fedele,6,4,0,Super Lettore
+2022-01-16,224,finance,114,en,short,uk,2020-06-04,pc,613307,3,2022-01,Moderato,3,3,1,Esploratore
+2022-04-13,152,lifestyle,112,it,long,it,2021-10-01,tablet,13283,3,2022-04,Moderato,3,2,1,Esploratore
+2023-05-04,168,weather,101,fr,short,fr,2022-10-15,tablet,71110,5,2023-05,Moderato,4,3,0,Esploratore
+2023-11-14,62,sport,120,en,long,uk,2022-09-03,tablet,333950,4,2023-11,Occasionale,2,2,1,Mordi e Fuggi
+2023-08-26,241,weather,119,it,long,it,2022-05-11,tablet,732195,3,2023-08,Fedele,10,4,2,Super Lettore
+2023-10-19,175,economy,120,it,long,it,2021-02-27,tablet,232653,1,2023-10,Moderato,4,4,0,Esploratore
+2023-04-23,19,weather,108,en,long,uk,2020-04-12,tablet,733316,2,2023-04,Fedele,6,2,0,Super Lettore
+2023-02-21,200,art,106,it,short,it,2022-03-24,pc,512802,1,2023-02,Moderato,3,3,1,Esploratore
+2022-02-10,46,economy,120,it,long,it,2021-05-08,pc,232619,4,2022-02,Fedele,8,4,2,Super Lettore
+2023-01-22,12,news,115,fr,short,fr,2022-08-21,tablet,611242,1,2023-01,Moderato,3,3,1,Esploratore
+2023-12-02,66,news,117,fr,short,fr,2020-03-19,pc,611223,2,2023-12,Moderato,4,3,0,Esploratore
+2023-08-23,148,weather,104,en,medium,uk,2021-04-24,tablet,723384,2,2023-08,Fedele,6,4,0,Super Lettore
+2023-05-22,100,weather,119,fr,short,fr,2022-02-02,tablet,71176,2,2023-05,Fedele,6,3,0,Super Lettore
+2023-09-22,82,weather,102,en,long,uk,2022-01-21,pc,733441,1,2023-09,Fedele,6,4,0,Super Lettore
+2021-03-23,187,news,112,it,long,it,2020-05-03,pc,632745,4,2021-03,Fedele,7,3,2,Super Lettore
+2023-07-19,189,weather,108,it,short,it,2021-06-05,mobile,712605,1,2023-07,Moderato,4,3,0,Esploratore
+2021-01-06,39,lifestyle,107,it,long,it,2020-08-03,tablet,132431,5,2021-01,Fedele,8,4,2,Super Lettore
+2023-12-08,73,news,116,en,medium,uk,2020-11-14,tablet,623834,4,2023-12,Moderato,5,3,0,Esploratore
+2023-10-11,215,art,122,it,medium,it,2022-05-05,tablet,522918,4,2023-10,Moderato,4,4,0,Esploratore
+2023-07-15,183,weather,100,fr,long,fr,2021-08-20,tablet,731630,5,2023-07,Moderato,5,4,0,Esploratore
+2023-11-09,236,weather,110,en,short,uk,2022-05-19,tablet,713803,1,2023-11,Occasionale,2,2,1,Mordi e Fuggi
+2021-09-07,115,lifestyle,102,fr,medium,fr,2020-01-08,pc,121879,4,2021-09,Fedele,9,5,2,Super Lettore
+2023-01-06,145,weather,114,it,short,it,2020-01-13,mobile,712504,2,2023-01,Fedele,7,4,2,Super Lettore
+2022-04-14,229,news,101,en,long,uk,2021-04-24,tablet,63351,4,2022-04,Moderato,5,5,0,Esploratore
+2023-03-20,64,art,107,en,short,uk,2022-11-04,pc,513958,3,2023-03,Moderato,4,4,0,Esploratore
+2023-11-08,119,weather,101,it,long,it,2022-08-25,tablet,732380,1,2023-11,Moderato,5,3,0,Esploratore
+2022-03-23,123,news,122,en,short,uk,2021-09-19,tablet,613666,5,2022-03,Fedele,6,6,2,Super Lettore
+2023-04-11,146,weather,122,it,medium,it,2020-04-26,pc,722746,4,2023-04,Fedele,6,3,0,Super Lettore
+2023-10-18,98,weather,112,it,long,it,2020-09-26,pc,732115,5,2023-10,Fedele,10,5,2,Super Lettore
+2023-11-27,178,sport,107,en,long,uk,2022-06-15,pc,33378,2,2023-11,Moderato,4,3,0,Esploratore
+2023-09-13,103,news,113,en,long,uk,2020-03-25,pc,633410,3,2023-09,Moderato,5,3,0,Esploratore
+2022-03-24,180,weather,115,it,long,it,2021-02-08,tablet,732108,1,2022-03,Moderato,3,2,1,Esploratore
+2023-08-15,28,weather,108,fr,long,fr,2022-06-01,pc,73133,4,2023-08,Moderato,5,3,0,Esploratore
+2023-12-23,217,weather,100,en,short,uk,2022-02-07,tablet,713968,3,2023-12,Occasionale,2,1,1,Mordi e Fuggi
+2022-01-23,127,economy,105,it,long,it,2021-05-26,pc,232595,1,2022-01,Occasionale,2,2,1,Mordi e Fuggi
+2023-11-01,115,sport,107,en,short,uk,2020-01-08,pc,313606,2,2023-11,Fedele,9,5,2,Super Lettore
+2023-06-22,13,weather,109,it,medium,it,2022-05-22,pc,722624,5,2023-06,Fedele,10,5,2,Super Lettore
+2023-03-11,99,sport,122,fr,long,fr,2022-01-20,pc,331724,5,2023-03,Fedele,6,4,0,Super Lettore
+2023-07-10,45,weather,113,en,long,uk,2022-10-16,pc,733275,1,2023-07,Moderato,4,4,0,Esploratore
+2022-01-03,164,weather,118,en,long,uk,2021-02-20,tablet,733103,1,2022-01,Moderato,4,3,0,Esploratore
+2023-04-07,151,weather,118,fr,long,fr,2020-12-02,pc,73182,2,2023-04,Fedele,6,5,0,Super Lettore
+2021-08-04,153,weather,101,en,short,uk,2020-06-14,mobile,713989,2,2021-08,Occasionale,2,2,1,Mordi e Fuggi
+2023-07-24,217,weather,101,it,medium,it,2022-02-07,tablet,722975,3,2023-07,Occasionale,2,1,1,Mordi e Fuggi
+2023-05-14,120,art,104,it,long,it,2021-09-23,tablet,532974,4,2023-05,Fedele,6,5,0,Super Lettore
+2022-12-06,77,finance,119,fr,medium,fr,2020-06-01,pc,621724,2,2022-12,Moderato,5,4,0,Esploratore
+2023-12-01,61,weather,119,en,long,uk,2020-08-09,tablet,733358,4,2023-12,Moderato,4,3,0,Esploratore
+2021-06-17,144,news,108,it,short,it,2020-04-13,pc,612262,5,2021-06,Moderato,5,3,0,Esploratore
+2022-08-20,58,sport,102,it,medium,it,2021-11-18,pc,322791,1,2022-08,Occasionale,2,2,1,Mordi e Fuggi
+2023-08-24,67,sport,115,it,short,it,2020-10-01,tablet,312295,3,2023-08,Moderato,3,2,1,Esploratore
+2022-09-12,238,sport,100,fr,short,fr,2020-09-16,tablet,311611,2,2022-09,Moderato,4,3,0,Esploratore
+2023-08-08,30,finance,100,it,short,it,2021-01-23,pc,612626,1,2023-08,Moderato,4,2,1,Esploratore
+2023-08-10,15,sport,114,en,long,uk,2022-05-13,pc,333306,5,2023-08,Fedele,6,5,0,Super Lettore
+2023-08-28,106,sport,106,it,long,it,2022-12-23,tablet,332502,5,2023-08,Fedele,6,4,0,Super Lettore
+2023-08-14,28,weather,114,en,medium,uk,2022-06-01,pc,72389,2,2023-08,Moderato,5,3,0,Esploratore
+2022-12-25,219,lifestyle,106,it,short,it,2021-12-24,tablet,112271,5,2022-12,Fedele,8,6,2,Super Lettore
+2022-12-21,1,sport,108,it,long,it,2021-05-20,pc,332513,4,2022-12,Occasionale,2,1,1,Mordi e Fuggi
+2023-07-14,33,economy,120,en,short,uk,2022-07-02,pc,213920,5,2023-07,Fedele,7,2,0,Super Lettore
+2022-04-04,175,weather,101,it,long,it,2021-02-27,tablet,732185,1,2022-04,Moderato,4,4,0,Esploratore
+2023-09-27,35,sport,101,en,long,uk,2022-07-19,tablet,333867,4,2023-09,Moderato,5,3,0,Esploratore
+2023-01-02,113,weather,114,it,long,it,2021-01-18,mobile,732796,2,2023-01,Moderato,4,3,0,Esploratore
+2023-09-16,115,art,112,en,short,uk,2020-01-08,mobile,513215,4,2023-09,Fedele,9,5,2,Super Lettore
+2022-07-02,197,lifestyle,103,it,long,it,2021-08-08,pc,132559,4,2022-07,Occasionale,1,1,1,Mordi e Fuggi
+2022-05-02,152,weather,119,en,medium,uk,2021-10-01,mobile,723712,3,2022-05,Moderato,3,2,1,Esploratore
+2022-06-10,102,finance,113,en,short,uk,2021-05-10,tablet,613582,4,2022-06,Fedele,9,5,2,Super Lettore
+2021-09-09,209,weather,116,it,long,it,2020-07-06,mobile,732865,1,2021-09,Fedele,7,4,2,Super Lettore
+2023-07-17,133,art,108,it,long,it,2022-07-19,tablet,53250,4,2023-07,Moderato,4,3,0,Esploratore
+2023-07-04,70,weather,107,fr,long,fr,2021-12-03,tablet,73121,5,2023-07,Occasionale,2,1,1,Mordi e Fuggi
+2022-05-07,135,economy,113,en,short,uk,2021-08-16,tablet,213441,5,2022-05,Fedele,8,3,2,Super Lettore
+2022-09-27,161,sport,103,fr,long,fr,2021-10-23,tablet,331119,2,2022-09,Moderato,3,2,1,Esploratore
+2023-11-26,119,weather,101,it,long,it,2022-08-25,mobile,732262,4,2023-11,Moderato,5,3,0,Esploratore
+2023-04-07,17,economy,118,it,long,it,2021-07-02,tablet,232282,4,2023-04,Moderato,3,3,1,Esploratore
+2021-10-23,16,news,103,fr,short,fr,2020-04-02,tablet,611280,1,2021-10,Moderato,3,2,1,Esploratore
+2022-05-12,171,weather,100,it,long,it,2021-08-09,mobile,73223,1,2022-05,Occasionale,1,1,1,Mordi e Fuggi
+2023-11-11,109,sport,111,it,medium,it,2022-08-08,pc,322435,2,2023-11,Moderato,5,4,0,Esploratore
+2023-03-05,50,economy,119,en,long,uk,2021-02-18,pc,233679,5,2023-03,Moderato,3,2,1,Esploratore
+2023-05-21,18,weather,120,it,short,it,2021-12-14,tablet,712144,4,2023-05,Fedele,9,4,2,Super Lettore
+2022-05-19,139,lifestyle,113,en,long,uk,2020-03-28,tablet,133706,1,2022-05,Moderato,4,4,0,Esploratore
+2022-12-24,102,weather,117,it,short,it,2021-05-10,tablet,712530,4,2022-12,Fedele,9,5,2,Super Lettore
+2022-11-28,7,finance,101,fr,medium,fr,2021-09-01,tablet,621611,3,2022-11,Moderato,4,3,0,Esploratore
+2023-02-03,106,economy,122,en,short,uk,2022-12-23,mobile,213133,4,2023-02,Fedele,6,4,0,Super Lettore
+2023-07-22,130,news,115,it,medium,it,2021-02-10,pc,622996,4,2023-07,Moderato,4,3,0,Esploratore
+2022-08-26,121,weather,113,it,long,it,2020-11-03,pc,732431,4,2022-08,Moderato,5,3,0,Esploratore
+2023-11-08,100,weather,106,it,short,it,2022-02-02,mobile,712249,4,2023-11,Fedele,6,3,0,Super Lettore
+2023-10-16,51,sport,122,it,medium,it,2022-07-09,mobile,322126,4,2023-10,Fedele,10,6,2,Super Lettore
+2023-02-17,182,weather,119,it,long,it,2020-03-14,tablet,732653,1,2023-02,Moderato,3,3,1,Esploratore
+2023-07-13,232,weather,103,it,short,it,2021-06-25,mobile,712777,1,2023-07,Fedele,6,3,0,Super Lettore
+2023-09-11,240,weather,109,fr,short,fr,2021-01-15,tablet,711879,5,2023-09,Fedele,6,4,0,Super Lettore
+2022-04-14,103,weather,100,it,short,it,2020-03-25,pc,712335,5,2022-04,Moderato,5,3,0,Esploratore
+2023-07-16,20,weather,116,it,long,it,2020-02-10,tablet,732154,4,2023-07,Moderato,3,2,1,Esploratore
+2022-01-13,145,weather,112,it,short,it,2020-01-13,mobile,712217,4,2022-01,Fedele,7,4,2,Super Lettore
+2023-01-11,164,finance,102,fr,long,fr,2021-02-20,tablet,631499,1,2023-01,Moderato,4,3,0,Esploratore
+2023-07-26,42,news,111,it,long,it,2021-03-06,tablet,632157,3,2023-07,Moderato,3,3,1,Esploratore
+2023-07-01,184,sport,115,fr,medium,fr,2022-08-11,pc,32130,4,2023-07,Moderato,3,3,1,Esploratore
+2023-12-08,233,art,100,it,medium,it,2021-06-11,pc,522830,4,2023-12,Moderato,4,4,0,Esploratore
+2023-02-28,178,sport,104,en,medium,uk,2022-06-15,mobile,323791,1,2023-02,Moderato,4,3,0,Esploratore
+2023-10-14,33,weather,116,it,long,it,2022-07-02,pc,732486,3,2023-10,Fedele,7,2,0,Super Lettore
+2023-09-23,20,economy,108,it,short,it,2020-02-10,mobile,212193,3,2023-09,Moderato,3,2,1,Esploratore
+2023-08-16,5,weather,109,en,long,uk,2022-01-25,tablet,73315,3,2023-08,Moderato,4,3,0,Esploratore
+2022-12-25,136,sport,106,it,long,it,2021-05-07,tablet,33298,1,2022-12,Occasionale,2,2,1,Mordi e Fuggi
+2023-02-25,34,weather,114,fr,short,fr,2020-12-10,tablet,711388,3,2023-02,Fedele,6,3,0,Super Lettore
+2023-07-21,198,economy,122,en,long,uk,2021-07-04,tablet,233570,3,2023-07,Occasionale,2,2,1,Mordi e Fuggi
+2023-02-07,61,lifestyle,100,fr,long,fr,2020-08-09,mobile,131437,2,2023-02,Moderato,4,3,0,Esploratore
+2023-10-16,68,news,113,en,short,uk,2020-12-14,mobile,613494,3,2023-10,Moderato,5,3,0,Esploratore
+2022-03-10,181,art,121,it,long,it,2020-12-09,mobile,53222,1,2022-03,Fedele,10,6,2,Super Lettore
+2022-05-18,240,sport,110,it,long,it,2021-01-15,pc,332628,2,2022-05,Fedele,6,4,0,Super Lettore
+2022-12-10,205,weather,110,it,short,it,2021-01-22,tablet,712482,4,2022-12,Fedele,6,4,0,Super Lettore
+2022-11-28,187,lifestyle,112,it,medium,it,2020-05-03,pc,122385,3,2022-11,Fedele,7,3,2,Super Lettore
+2023-10-04,191,sport,119,it,medium,it,2021-05-15,pc,322796,4,2023-10,Moderato,4,3,0,Esploratore
+2023-07-21,104,economy,103,it,medium,it,2022-04-11,tablet,22248,5,2023-07,Fedele,6,3,0,Super Lettore
+2022-10-05,147,economy,105,en,medium,uk,2021-02-21,tablet,223273,2,2022-10,Fedele,6,4,0,Super Lettore
+2022-05-16,83,sport,118,en,medium,uk,2020-07-23,pc,323321,3,2022-05,Moderato,3,3,1,Esploratore
+2023-02-26,88,weather,113,it,long,it,2022-11-12,pc,732990,2,2023-02,Occasionale,2,1,1,Mordi e Fuggi
+2023-04-23,104,weather,114,it,medium,it,2022-04-11,pc,722887,3,2023-04,Fedele,6,3,0,Super Lettore
+2023-05-20,121,weather,122,it,long,it,2020-11-03,mobile,732476,1,2023-05,Moderato,5,3,0,Esploratore
+2022-10-09,23,weather,120,fr,medium,fr,2021-09-20,tablet,721867,3,2022-10,Moderato,3,2,1,Esploratore
+2023-02-26,25,sport,117,en,long,uk,2021-10-28,tablet,333517,2,2023-02,Occasionale,2,2,1,Mordi e Fuggi
+2023-11-21,177,weather,121,it,short,it,2022-03-17,pc,71272,2,2023-11,Moderato,5,3,0,Esploratore
+2023-08-28,78,weather,122,en,long,uk,2021-02-24,mobile,73329,5,2023-08,Occasionale,2,2,1,Mordi e Fuggi
+2023-10-24,199,sport,102,en,long,uk,2020-07-27,tablet,333466,2,2023-10,Fedele,7,6,2,Super Lettore
+2023-09-21,81,sport,111,fr,long,fr,2022-08-23,pc,33164,3,2023-09,Moderato,3,2,1,Esploratore
+2023-11-06,162,weather,112,it,medium,it,2022-09-06,mobile,722938,4,2023-11,Moderato,5,3,0,Esploratore
+2023-02-01,63,news,101,en,long,uk,2020-02-27,tablet,633428,3,2023-02,Occasionale,2,2,1,Mordi e Fuggi
+2023-12-20,51,economy,121,fr,long,fr,2022-07-09,tablet,231160,5,2023-12,Fedele,10,6,2,Super Lettore
+2023-01-23,120,weather,102,en,long,uk,2021-09-23,pc,733576,4,2023-01,Fedele,6,5,0,Super Lettore
+2023-06-15,90,weather,110,fr,medium,fr,2022-03-13,pc,721846,1,2023-06,Fedele,8,3,2,Super Lettore
+2022-04-21,170,finance,116,it,medium,it,2021-10-07,tablet,622420,2,2022-04,Moderato,5,3,0,Esploratore
+2023-09-08,27,sport,113,en,short,uk,2021-01-12,pc,313957,1,2023-09,Moderato,3,2,1,Esploratore
+2022-04-27,75,news,101,it,short,it,2021-07-20,tablet,612942,4,2022-04,Moderato,4,4,0,Esploratore
+2023-08-26,132,weather,104,it,short,it,2022-07-25,tablet,712625,3,2023-08,Moderato,5,2,0,Esploratore
+2023-07-08,51,sport,102,en,long,uk,2022-07-09,pc,333758,1,2023-07,Fedele,10,6,2,Super Lettore
+2023-08-04,118,lifestyle,119,fr,medium,fr,2021-04-27,pc,121394,1,2023-08,Moderato,5,4,0,Esploratore
+2023-11-16,18,art,100,it,short,it,2021-12-14,mobile,512796,4,2023-11,Fedele,9,4,2,Super Lettore
+2022-05-18,68,sport,110,it,short,it,2020-12-14,mobile,312680,4,2022-05,Moderato,5,3,0,Esploratore
+2023-11-11,157,weather,118,it,medium,it,2020-02-12,pc,722197,4,2023-11,Fedele,12,6,2,Super Lettore
+2022-07-15,57,lifestyle,117,en,medium,uk,2020-07-11,pc,123538,4,2022-07,Moderato,5,4,0,Esploratore
+2023-07-21,245,art,100,it,long,it,2022-11-28,mobile,532517,4,2023-07,Moderato,4,4,0,Esploratore
+2023-04-06,195,weather,106,it,short,it,2022-12-09,tablet,712138,5,2023-04,Fedele,6,3,0,Super Lettore
+2023-12-08,245,economy,101,it,short,it,2022-11-28,pc,21258,1,2023-12,Moderato,4,4,0,Esploratore
+2022-12-17,148,weather,112,fr,long,fr,2021-04-24,tablet,731289,2,2022-12,Fedele,6,4,0,Super Lettore
+2023-02-19,201,lifestyle,113,it,long,it,2022-11-25,tablet,132903,2,2023-02,Moderato,3,3,1,Esploratore
+2023-11-16,140,economy,113,en,long,uk,2021-10-03,pc,233336,5,2023-11,Fedele,6,5,0,Super Lettore
+2023-02-15,79,news,101,it,long,it,2020-12-12,tablet,632480,5,2023-02,Moderato,3,3,1,Esploratore
+2021-02-08,212,finance,120,it,short,it,2020-02-27,mobile,612318,2,2021-02,Moderato,3,3,1,Esploratore
+2023-11-14,135,weather,100,it,medium,it,2021-08-16,tablet,722477,2,2023-11,Fedele,8,3,2,Super Lettore
+2023-03-12,194,weather,122,it,long,it,2021-08-21,pc,732284,2,2023-03,Moderato,4,4,0,Esploratore
+2022-08-05,145,weather,114,en,medium,uk,2020-01-13,tablet,723978,5,2022-08,Fedele,7,4,2,Super Lettore
+2023-09-13,194,sport,104,it,short,it,2021-08-21,pc,312413,2,2023-09,Moderato,4,4,0,Esploratore
+2023-12-26,8,news,104,it,long,it,2022-04-23,tablet,63283,4,2023-12,Moderato,4,4,0,Esploratore
+2022-02-16,89,weather,120,fr,medium,fr,2020-01-02,pc,721468,1,2022-02,Moderato,3,2,1,Esploratore
+2021-07-24,172,economy,111,it,short,it,2020-04-22,mobile,2129,4,2021-07,Fedele,6,4,0,Super Lettore
+2023-06-17,237,economy,110,it,short,it,2022-03-23,tablet,212316,2,2023-06,Fedele,6,4,0,Super Lettore
+2022-01-15,203,sport,109,it,long,it,2021-03-28,pc,332213,2,2022-01,Occasionale,2,2,1,Mordi e Fuggi
+2023-06-20,221,economy,108,it,medium,it,2021-04-25,mobile,222506,4,2023-06,Fedele,7,5,2,Super Lettore
+2023-08-07,156,weather,114,it,medium,it,2022-02-18,tablet,72252,4,2023-08,Moderato,4,3,0,Esploratore
+2023-12-05,172,finance,100,it,short,it,2020-04-22,pc,612345,2,2023-12,Fedele,6,4,0,Super Lettore
+2022-03-05,18,sport,112,it,short,it,2021-12-14,tablet,312535,3,2022-03,Fedele,9,4,2,Super Lettore
+2022-04-27,98,weather,108,it,long,it,2020-09-26,mobile,732745,3,2022-04,Fedele,10,5,2,Super Lettore
+2023-04-03,51,art,117,it,short,it,2022-07-09,tablet,512143,2,2023-04,Fedele,10,6,2,Super Lettore
+2022-06-06,148,lifestyle,113,it,short,it,2021-04-24,pc,112248,5,2022-06,Fedele,6,4,0,Super Lettore
+2022-07-10,41,weather,103,it,short,it,2021-08-01,mobile,712194,1,2022-07,Moderato,5,4,0,Esploratore
+2022-03-06,38,finance,102,it,medium,it,2021-01-02,mobile,622798,1,2022-03,Moderato,4,2,1,Esploratore
+2021-02-23,76,lifestyle,108,en,long,uk,2020-05-14,mobile,133883,2,2021-02,Moderato,4,3,0,Esploratore
+2023-01-27,106,news,101,it,short,it,2022-12-23,pc,612744,2,2023-01,Fedele,6,4,0,Super Lettore
+2022-06-22,130,sport,104,fr,long,fr,2021-02-10,mobile,331764,2,2022-06,Moderato,4,3,0,Esploratore
+2022-07-07,166,sport,119,en,short,uk,2021-07-22,tablet,313434,1,2022-07,Moderato,4,4,0,Esploratore
+2022-06-27,243,economy,103,it,long,it,2020-08-24,tablet,232682,4,2022-06,Moderato,3,3,1,Esploratore
+2023-12-13,2,art,116,it,long,it,2022-01-06,tablet,532180,5,2023-12,Fedele,6,5,0,Super Lettore
+2021-01-10,68,sport,113,en,medium,uk,2020-12-14,pc,323192,2,2021-01,Moderato,5,3,0,Esploratore
+2022-03-22,234,weather,112,en,medium,uk,2021-11-19,pc,723968,3,2022-03,Moderato,3,2,1,Esploratore
+2023-01-15,163,lifestyle,119,it,medium,it,2022-11-28,tablet,122434,1,2023-01,Fedele,7,4,2,Super Lettore
+2021-11-15,48,sport,105,it,short,it,2020-10-21,pc,312550,5,2021-11,Moderato,5,3,0,Esploratore
+2023-06-24,46,lifestyle,103,fr,long,fr,2021-05-08,mobile,131650,5,2023-06,Fedele,8,4,2,Super Lettore
+2022-03-19,117,finance,118,it,medium,it,2020-07-13,pc,622500,2,2022-03,Occasionale,2,1,1,Mordi e Fuggi
+2022-02-19,110,news,107,it,long,it,2020-01-06,mobile,632844,5,2022-02,Moderato,3,3,1,Esploratore
+2022-11-21,27,weather,103,fr,medium,fr,2021-01-12,tablet,721904,4,2022-11,Moderato,3,2,1,Esploratore
+2022-03-20,110,finance,112,en,long,uk,2020-01-06,pc,63313,2,2022-03,Moderato,3,3,1,Esploratore
+2023-01-04,202,weather,120,en,long,uk,2020-02-04,tablet,733908,3,2023-01,Occasionale,2,2,1,Mordi e Fuggi
+2023-01-27,207,sport,103,en,short,uk,2020-01-11,tablet,313352,3,2023-01,Moderato,4,3,0,Esploratore
+2023-03-25,143,weather,112,it,medium,it,2022-05-22,tablet,722815,2,2023-03,Fedele,6,2,0,Super Lettore
+2023-06-19,108,sport,103,it,short,it,2021-12-08,mobile,312563,4,2023-06,Moderato,5,5,0,Esploratore
+2023-02-19,114,economy,118,fr,short,fr,2022-07-08,pc,211527,2,2023-02,Fedele,7,4,2,Super Lettore
+2022-05-26,11,news,111,it,medium,it,2020-11-23,mobile,622996,5,2022-05,Occasionale,2,2,1,Mordi e Fuggi
+2021-11-11,6,lifestyle,111,en,long,uk,2020-09-14,pc,133156,1,2021-11,Fedele,7,4,2,Super Lettore
+2021-01-18,39,weather,117,fr,medium,fr,2020-08-03,tablet,721619,4,2021-01,Fedele,8,4,2,Super Lettore
+2023-05-25,156,weather,110,en,long,uk,2022-02-18,mobile,733798,2,2023-05,Moderato,4,3,0,Esploratore
+2023-05-18,181,lifestyle,105,en,long,uk,2020-12-09,mobile,133543,3,2023-05,Fedele,10,6,2,Super Lettore
+2022-12-02,107,sport,104,en,short,uk,2020-11-14,mobile,313899,1,2022-12,Occasionale,2,1,1,Mordi e Fuggi
+2023-07-12,17,weather,119,it,long,it,2021-07-02,tablet,73226,4,2023-07,Moderato,3,3,1,Esploratore
+2021-02-06,212,art,116,it,long,it,2020-02-27,mobile,5329,5,2021-02,Moderato,3,3,1,Esploratore
+2023-11-20,125,art,113,fr,medium,fr,2021-04-17,mobile,521942,3,2023-11,Moderato,3,3,1,Esploratore
+2023-01-07,51,weather,120,it,medium,it,2022-07-09,tablet,72237,3,2023-01,Fedele,10,6,2,Super Lettore
+2023-01-09,190,finance,118,fr,long,fr,2021-06-28,mobile,631786,2,2023-01,Moderato,5,4,0,Esploratore
+2023-10-07,175,lifestyle,101,fr,short,fr,2021-02-27,tablet,111434,4,2023-10,Moderato,4,4,0,Esploratore
+2023-08-09,229,sport,121,it,long,it,2021-04-24,mobile,332459,2,2023-08,Moderato,5,5,0,Esploratore
+2022-12-10,203,news,117,fr,short,fr,2021-03-28,pc,61116,2,2022-12,Occasionale,2,2,1,Mordi e Fuggi
+2023-07-21,119,economy,106,it,short,it,2022-08-25,tablet,212721,1,2023-07,Moderato,5,3,0,Esploratore
+2023-06-02,184,art,117,it,long,it,2022-08-11,pc,532809,2,2023-06,Moderato,3,3,1,Esploratore
+2023-03-22,9,news,120,en,long,uk,2021-03-21,pc,633880,1,2023-03,Moderato,3,2,1,Esploratore
+2023-02-06,82,news,120,it,short,it,2022-01-21,pc,612245,4,2023-02,Fedele,6,4,0,Super Lettore
+2023-11-09,241,weather,109,it,short,it,2022-05-11,pc,712698,5,2023-11,Fedele,10,4,2,Super Lettore
+2023-10-24,177,weather,121,it,long,it,2022-03-17,tablet,73283,4,2023-10,Moderato,5,3,0,Esploratore
+2023-09-13,2,finance,102,it,medium,it,2022-01-06,tablet,622798,5,2023-09,Fedele,6,5,0,Super Lettore
+2023-10-02,148,news,115,en,long,uk,2021-04-24,mobile,633372,2,2023-10,Fedele,6,4,0,Super Lettore
+2022-04-09,221,sport,103,fr,medium,fr,2021-04-25,mobile,321836,3,2022-04,Fedele,7,5,2,Super Lettore
+2023-12-10,5,economy,100,it,long,it,2022-01-25,mobile,232838,5,2023-12,Moderato,4,3,0,Esploratore
+2023-03-06,5,news,100,it,medium,it,2022-01-25,pc,622334,1,2023-03,Moderato,4,3,0,Esploratore
+2022-04-25,14,weather,104,fr,short,fr,2021-01-14,pc,711990,5,2022-04,Fedele,7,6,2,Super Lettore
+2023-04-14,13,art,117,fr,long,fr,2022-05-22,pc,531125,5,2023-04,Fedele,10,5,2,Super Lettore
+2021-08-25,89,weather,117,en,long,uk,2020-01-02,mobile,733563,4,2021-08,Moderato,3,2,1,Esploratore
+2023-11-14,122,weather,119,it,short,it,2022-12-17,tablet,712575,1,2023-11,Moderato,4,2,1,Esploratore
+2023-11-13,124,finance,116,en,medium,uk,2022-09-14,mobile,623383,4,2023-11,Occasionale,2,2,1,Mordi e Fuggi
+2023-07-19,241,finance,107,it,short,it,2022-05-11,mobile,61236,5,2023-07,Fedele,10,4,2,Super Lettore
+2022-11-25,149,sport,108,en,short,uk,2020-05-11,pc,313262,5,2022-11,Fedele,6,4,0,Super Lettore
+2023-08-11,105,economy,106,fr,short,fr,2022-01-25,tablet,211669,2,2023-08,Moderato,5,4,0,Esploratore
+2023-08-04,46,news,109,fr,medium,fr,2021-05-08,pc,621702,4,2023-08,Fedele,8,4,2,Super Lettore
+2022-04-12,40,weather,100,fr,long,fr,2021-09-08,tablet,73161,1,2022-04,Fedele,6,4,0,Super Lettore
+2022-11-07,30,finance,101,fr,long,fr,2021-01-23,tablet,631459,5,2022-11,Moderato,4,2,1,Esploratore
+2023-08-02,47,weather,113,it,short,it,2022-08-10,tablet,712773,2,2023-08,Moderato,4,3,0,Esploratore
+2021-01-06,209,finance,115,en,short,uk,2020-07-06,mobile,613716,5,2021-01,Fedele,7,4,2,Super Lettore
+2023-10-13,239,economy,112,en,short,uk,2020-02-04,pc,213564,1,2023-10,Moderato,5,3,0,Esploratore
+2023-11-24,240,lifestyle,105,it,medium,it,2021-01-15,pc,122774,2,2023-11,Fedele,6,4,0,Super Lettore
+2023-06-11,222,weather,102,it,short,it,2021-05-05,pc,712991,4,2023-06,Moderato,4,4,0,Esploratore
+2023-10-12,10,weather,106,it,long,it,2022-08-05,tablet,732893,1,2023-10,Moderato,5,3,0,Esploratore
+2022-12-10,74,weather,113,en,long,uk,2021-07-04,pc,733989,5,2022-12,Occasionale,2,1,1,Mordi e Fuggi
+2023-12-20,179,weather,111,it,short,it,2022-04-13,mobile,712656,1,2023-12,Moderato,4,2,1,Esploratore
+2023-10-09,111,lifestyle,112,it,short,it,2020-09-01,mobile,11229,2,2023-10,Moderato,3,3,1,Esploratore
+2023-12-27,64,lifestyle,114,it,long,it,2022-11-04,mobile,132121,3,2023-12,Moderato,4,4,0,Esploratore
+2022-09-09,87,sport,116,en,short,uk,2021-09-12,tablet,313263,1,2022-09,Moderato,3,3,1,Esploratore
+2022-01-02,232,weather,113,it,long,it,2021-06-25,pc,732746,3,2022-01,Fedele,6,3,0,Super Lettore
+2023-09-22,41,weather,100,en,short,uk,2021-08-01,pc,713545,5,2023-09,Moderato,5,4,0,Esploratore
+2023-07-12,215,economy,116,it,short,it,2022-05-05,tablet,212785,4,2023-07,Moderato,4,4,0,Esploratore
+2023-01-27,141,news,107,en,long,uk,2021-05-23,pc,633156,2,2023-01,Moderato,4,3,0,Esploratore
+2022-01-03,11,economy,101,en,short,uk,2020-11-23,tablet,213617,4,2022-01,Occasionale,2,2,1,Mordi e Fuggi
+2023-03-16,196,art,110,it,long,it,2022-06-04,mobile,53265,3,2023-03,Moderato,4,4,0,Esploratore
+2022-09-04,221,art,122,fr,long,fr,2021-04-25,tablet,531324,4,2022-09,Fedele,7,5,2,Super Lettore
+2023-09-07,118,weather,122,fr,medium,fr,2021-04-27,mobile,721515,3,2023-09,Moderato,5,4,0,Esploratore
+2023-04-14,90,sport,104,it,long,it,2022-03-13,pc,332297,3,2023-04,Fedele,8,3,2,Super Lettore
+2023-09-23,71,weather,108,it,short,it,2021-05-10,pc,712918,5,2023-09,Moderato,5,3,0,Esploratore
+2022-02-20,183,lifestyle,119,en,long,uk,2021-08-20,pc,133576,2,2022-02,Moderato,5,4,0,Esploratore
+2022-03-16,204,weather,101,en,long,uk,2021-07-27,tablet,733497,1,2022-03,Moderato,3,3,1,Esploratore
+2023-02-28,98,weather,107,it,long,it,2020-09-26,tablet,73276,3,2023-02,Fedele,10,5,2,Super Lettore
+2023-04-04,234,weather,116,it,short,it,2021-11-19,pc,712817,5,2023-04,Moderato,3,2,1,Esploratore
+2023-01-28,72,economy,110,it,long,it,2022-10-12,mobile,232446,5,2023-01,Fedele,7,5,2,Super Lettore
+2023-08-24,205,weather,119,fr,long,fr,2021-01-22,mobile,731383,4,2023-08,Fedele,6,4,0,Super Lettore
+2021-05-18,76,finance,105,it,short,it,2020-05-14,tablet,612595,1,2021-05,Moderato,4,3,0,Esploratore
+2023-02-18,229,economy,120,it,long,it,2021-04-24,pc,232645,1,2023-02,Moderato,5,5,0,Esploratore
+2022-12-12,48,weather,119,it,short,it,2020-10-21,tablet,712448,5,2022-12,Moderato,5,3,0,Esploratore
+2023-03-15,244,news,106,fr,medium,fr,2021-05-25,tablet,621121,4,2023-03,Moderato,3,2,1,Esploratore
+2023-04-10,207,finance,121,it,short,it,2020-01-11,tablet,61279,2,2023-04,Moderato,4,3,0,Esploratore
+2022-09-07,6,lifestyle,110,it,short,it,2020-09-14,tablet,112469,5,2022-09,Fedele,7,4,2,Super Lettore
+2023-01-12,143,weather,114,it,short,it,2022-05-22,mobile,712686,5,2023-01,Fedele,6,2,0,Super Lettore
+2023-05-09,192,news,109,fr,medium,fr,2020-05-01,tablet,621464,4,2023-05,Moderato,4,2,1,Esploratore
+2021-04-14,157,economy,110,it,short,it,2020-02-12,pc,212930,5,2021-04,Fedele,12,6,2,Super Lettore
+2023-06-06,169,lifestyle,113,it,medium,it,2021-06-16,tablet,12243,3,2023-06,Moderato,5,4,0,Esploratore
+2023-07-07,130,sport,122,en,short,uk,2021-02-10,pc,313682,2,2023-07,Moderato,4,3,0,Esploratore
+2023-03-28,132,sport,121,fr,short,fr,2022-07-25,tablet,311480,3,2023-03,Moderato,5,2,0,Esploratore
+2021-10-28,157,weather,116,it,short,it,2020-02-12,pc,712540,1,2021-10,Fedele,12,6,2,Super Lettore
+2021-12-17,145,sport,107,fr,medium,fr,2020-01-13,tablet,321860,1,2021-12,Fedele,7,4,2,Super Lettore
+2021-12-12,206,weather,101,it,short,it,2020-11-07,pc,712275,3,2021-12,Moderato,4,2,1,Esploratore
+2023-03-15,234,economy,113,it,short,it,2021-11-19,pc,212233,3,2023-03,Moderato,3,2,1,Esploratore
+2023-12-17,52,weather,116,it,long,it,2022-03-15,pc,732362,5,2023-12,Moderato,4,2,1,Esploratore
+2021-02-21,230,art,112,it,long,it,2020-01-09,tablet,532353,4,2021-02,Occasionale,1,1,1,Mordi e Fuggi
+2023-04-28,178,finance,112,en,short,uk,2022-06-15,pc,613499,1,2023-04,Moderato,4,3,0,Esploratore
+2022-03-08,219,weather,103,en,short,uk,2021-12-24,tablet,713641,3,2022-03,Fedele,8,6,2,Super Lettore
+2023-04-06,241,sport,116,fr,short,fr,2022-05-11,mobile,311745,3,2023-04,Fedele,10,4,2,Super Lettore
+2022-12-24,204,sport,108,it,medium,it,2021-07-27,mobile,322949,4,2022-12,Moderato,3,3,1,Esploratore
+2023-12-16,208,economy,113,it,long,it,2022-11-20,pc,232921,2,2023-12,Fedele,6,3,0,Super Lettore
+2023-05-06,173,economy,103,fr,medium,fr,2021-12-12,pc,221892,3,2023-05,Moderato,3,2,1,Esploratore
+2021-04-18,24,lifestyle,117,it,short,it,2020-09-09,tablet,112999,3,2021-04,Moderato,3,3,1,Esploratore
+2023-03-09,13,economy,106,it,short,it,2022-05-22,mobile,212532,2,2023-03,Fedele,10,5,2,Super Lettore
+2023-01-27,30,art,105,it,long,it,2021-01-23,tablet,532485,3,2023-01,Moderato,4,2,1,Esploratore
+2023-05-06,205,finance,101,en,long,uk,2021-01-22,mobile,633277,2,2023-05,Fedele,6,4,0,Super Lettore
+2022-03-16,219,art,115,en,short,uk,2021-12-24,tablet,513479,5,2022-03,Fedele,8,6,2,Super Lettore
+2022-12-08,239,news,106,en,short,uk,2020-02-04,tablet,613318,4,2022-12,Moderato,5,3,0,Esploratore
+2023-03-18,83,finance,102,fr,long,fr,2020-07-23,tablet,631237,4,2023-03,Moderato,3,3,1,Esploratore
+2022-10-16,58,art,119,it,medium,it,2021-11-18,tablet,522995,3,2022-10,Occasionale,2,2,1,Mordi e Fuggi
+2022-03-07,116,finance,116,en,short,uk,2021-10-09,tablet,613204,4,2022-03,Moderato,4,2,1,Esploratore
+2022-02-19,190,sport,117,fr,long,fr,2021-06-28,tablet,331708,2,2022-02,Moderato,5,4,0,Esploratore
+2023-09-26,109,news,113,en,long,uk,2022-08-08,tablet,633712,5,2023-09,Moderato,5,4,0,Esploratore
+2023-11-19,21,weather,115,fr,medium,fr,2021-07-11,mobile,721302,4,2023-11,Moderato,3,1,1,Esploratore
+2023-02-07,156,news,113,it,long,it,2022-02-18,tablet,632700,3,2023-02,Moderato,4,3,0,Esploratore
+2022-01-19,172,sport,122,it,short,it,2020-04-22,tablet,312910,2,2022-01,Fedele,6,4,0,Super Lettore
+2021-06-18,181,news,109,it,long,it,2020-12-09,pc,632901,1,2021-06,Fedele,10,6,2,Super Lettore
+2022-09-27,74,weather,116,it,medium,it,2021-07-04,pc,722359,1,2022-09,Occasionale,2,1,1,Mordi e Fuggi
+2023-12-08,45,news,122,en,long,uk,2022-10-16,mobile,633277,5,2023-12,Moderato,4,4,0,Esploratore
+2023-11-07,15,sport,109,it,short,it,2022-05-13,tablet,31227,5,2023-11,Fedele,6,5,0,Super Lettore
+2023-05-27,215,finance,100,it,long,it,2022-05-05,mobile,632925,1,2023-05,Moderato,4,4,0,Esploratore
+2023-01-05,163,weather,110,it,short,it,2022-11-28,mobile,712264,4,2023-01,Fedele,7,4,2,Super Lettore
+2023-09-17,41,news,116,en,short,uk,2021-08-01,mobile,613931,4,2023-09,Moderato,5,4,0,Esploratore
+2022-05-19,69,economy,111,it,medium,it,2020-08-23,pc,222449,4,2022-05,Moderato,4,3,0,Esploratore
+2022-09-04,199,finance,120,it,medium,it,2020-07-27,tablet,622518,2,2022-09,Fedele,7,6,2,Super Lettore
+2023-05-06,160,lifestyle,122,it,medium,it,2021-01-01,pc,12255,4,2023-05,Moderato,3,3,1,Esploratore
+2023-05-19,18,weather,111,it,short,it,2021-12-14,tablet,712417,3,2023-05,Fedele,9,4,2,Super Lettore
+2023-02-20,200,finance,101,it,long,it,2022-03-24,tablet,632316,2,2023-02,Moderato,3,3,1,Esploratore
+2022-09-21,44,economy,119,fr,short,fr,2020-12-09,tablet,211398,4,2022-09,Moderato,5,4,0,Esploratore
+2023-03-25,186,sport,111,it,medium,it,2020-08-12,mobile,322923,5,2023-03,Moderato,4,4,0,Esploratore
+2023-10-13,114,economy,112,it,long,it,2022-07-08,pc,232807,4,2023-10,Fedele,7,4,2,Super Lettore
+2023-10-09,140,sport,109,en,short,uk,2021-10-03,mobile,313276,4,2023-10,Fedele,6,5,0,Super Lettore
+2023-03-20,196,sport,103,it,medium,it,2022-06-04,tablet,322444,2,2023-03,Moderato,4,4,0,Esploratore
+2022-11-10,145,economy,102,fr,long,fr,2020-01-13,tablet,231470,4,2022-11,Fedele,7,4,2,Super Lettore
+2022-02-26,136,lifestyle,114,fr,short,fr,2021-05-07,mobile,11123,2,2022-02,Occasionale,2,2,1,Mordi e Fuggi
+2021-08-13,57,sport,120,it,long,it,2020-07-11,mobile,332311,1,2021-08,Moderato,5,4,0,Esploratore
+2022-09-25,16,weather,117,fr,long,fr,2020-04-02,tablet,731339,2,2022-09,Moderato,3,2,1,Esploratore
+2023-09-23,33,weather,112,it,medium,it,2022-07-02,mobile,722624,3,2023-09,Fedele,7,2,0,Super Lettore
+2023-09-04,188,sport,118,en,medium,uk,2022-06-13,mobile,323443,4,2023-09,Fedele,6,3,0,Super Lettore
+2022-11-12,46,art,101,it,long,it,2021-05-08,mobile,532523,5,2022-11,Fedele,8,4,2,Super Lettore
+2022-10-04,232,weather,117,it,medium,it,2021-06-25,tablet,72238,4,2022-10,Fedele,6,3,0,Super Lettore
+2022-05-20,73,sport,115,it,medium,it,2020-11-14,pc,322725,3,2022-05,Moderato,5,3,0,Esploratore
+2023-07-11,15,news,112,it,long,it,2022-05-13,pc,632611,2,2023-07,Fedele,6,5,0,Super Lettore
+2023-06-26,165,economy,115,fr,short,fr,2020-08-03,tablet,211621,1,2023-06,Occasionale,1,1,1,Mordi e Fuggi
+2022-07-28,93,lifestyle,112,it,short,it,2021-07-04,pc,112932,3,2022-07,Moderato,5,4,0,Esploratore
+2021-03-13,84,weather,121,it,short,it,2020-06-09,tablet,712389,1,2021-03,Moderato,3,2,1,Esploratore
+2023-09-28,2,news,104,en,short,uk,2022-01-06,tablet,613553,3,2023-09,Fedele,6,5,0,Super Lettore
+2022-01-12,103,sport,103,fr,medium,fr,2020-03-25,tablet,321864,2,2022-01,Moderato,5,3,0,Esploratore
+2023-02-28,114,finance,116,en,short,uk,2022-07-08,pc,613100,1,2023-02,Fedele,7,4,2,Super Lettore
+2023-09-12,198,news,108,fr,long,fr,2021-07-04,pc,631971,3,2023-09,Occasionale,2,2,1,Mordi e Fuggi
+2021-02-02,94,news,105,it,medium,it,2020-03-24,mobile,622926,4,2021-02,Fedele,6,4,0,Super Lettore
+2023-07-02,85,economy,115,it,long,it,2020-03-28,mobile,232900,5,2023-07,Moderato,4,3,0,Esploratore
+2023-12-28,183,sport,121,it,short,it,2021-08-20,mobile,312406,3,2023-12,Moderato,5,4,0,Esploratore
+2022-12-16,68,weather,103,it,short,it,2020-12-14,mobile,712854,1,2022-12,Moderato,5,3,0,Esploratore
+2023-03-09,245,lifestyle,108,en,long,uk,2022-11-28,tablet,133498,4,2023-03,Moderato,4,4,0,Esploratore
+2023-10-19,187,finance,111,it,long,it,2020-05-03,tablet,632281,1,2023-10,Fedele,7,3,2,Super Lettore
+2023-04-06,98,weather,115,en,medium,uk,2020-09-26,pc,723466,4,2023-04,Fedele,10,5,2,Super Lettore
+2021-08-13,199,economy,113,it,medium,it,2020-07-27,tablet,222319,1,2021-08,Fedele,7,6,2,Super Lettore
+2023-06-24,228,news,100,fr,long,fr,2022-05-23,pc,63131,5,2023-06,Moderato,3,3,1,Esploratore
+2022-09-27,46,news,104,fr,long,fr,2021-05-08,pc,631441,1,2022-09,Fedele,8,4,2,Super Lettore
+2022-09-15,181,art,122,it,short,it,2020-12-09,pc,512732,2,2022-09,Fedele,10,6,2,Super Lettore
+2022-10-23,191,sport,112,en,long,uk,2021-05-15,tablet,333457,1,2022-10,Moderato,4,3,0,Esploratore
+2023-03-19,57,finance,118,it,short,it,2020-07-11,pc,612679,4,2023-03,Moderato,5,4,0,Esploratore
+2022-08-07,18,economy,107,en,medium,uk,2021-12-14,mobile,223558,1,2022-08,Fedele,9,4,2,Super Lettore
+2023-07-16,218,weather,104,fr,medium,fr,2021-02-16,mobile,72115,4,2023-07,Moderato,4,3,0,Esploratore
+2023-03-24,155,art,105,it,medium,it,2022-12-19,mobile,522444,1,2023-03,Moderato,4,3,0,Esploratore
+2022-03-03,120,news,113,en,short,uk,2021-09-23,tablet,613429,3,2022-03,Fedele,6,5,0,Super Lettore
+2023-06-15,162,weather,111,it,long,it,2022-09-06,tablet,73258,5,2023-06,Moderato,5,3,0,Esploratore
+2022-02-24,185,economy,110,en,medium,uk,2020-10-21,mobile,223797,5,2022-02,Moderato,3,3,1,Esploratore
+2022-03-22,103,news,113,fr,long,fr,2020-03-25,pc,631511,1,2022-03,Moderato,5,3,0,Esploratore
+2021-02-25,49,news,105,en,medium,uk,2020-10-24,tablet,623963,5,2021-02,Moderato,4,3,0,Esploratore
+2022-08-23,190,sport,122,en,medium,uk,2021-06-28,pc,323456,4,2022-08,Moderato,5,4,0,Esploratore
+2023-08-27,195,weather,106,en,medium,uk,2022-12-09,tablet,723559,5,2023-08,Fedele,6,3,0,Super Lettore
+2023-08-21,12,weather,102,it,short,it,2022-08-21,mobile,712105,5,2023-08,Moderato,3,3,1,Esploratore
+2023-01-19,13,lifestyle,120,fr,short,fr,2022-05-22,mobile,111524,1,2023-01,Fedele,10,5,2,Super Lettore
+2022-08-05,120,weather,112,it,short,it,2021-09-23,tablet,712863,1,2022-08,Fedele,6,5,0,Super Lettore
+2023-01-25,33,weather,119,it,long,it,2022-07-02,pc,732206,3,2023-01,Fedele,7,2,0,Super Lettore
+2022-06-23,150,economy,114,it,short,it,2021-04-01,pc,21266,1,2022-06,Moderato,3,2,1,Esploratore
+2023-07-24,179,weather,110,en,long,uk,2022-04-13,pc,73364,1,2023-07,Moderato,4,2,1,Esploratore
+2023-04-23,155,weather,119,en,long,uk,2022-12-19,mobile,733787,3,2023-04,Moderato,4,3,0,Esploratore
+2022-06-27,180,art,107,fr,medium,fr,2021-02-08,tablet,521373,2,2022-06,Moderato,3,2,1,Esploratore
+2022-11-15,218,sport,114,it,long,it,2021-02-16,mobile,332129,4,2022-11,Moderato,4,3,0,Esploratore
+2023-07-27,168,sport,104,en,long,uk,2022-10-15,tablet,333958,2,2023-07,Moderato,4,3,0,Esploratore
+2023-07-28,104,news,108,en,short,uk,2022-04-11,mobile,613742,5,2023-07,Fedele,6,3,0,Super Lettore
+2022-08-11,55,sport,121,en,short,uk,2020-11-28,pc,31330,3,2022-08,Occasionale,2,1,1,Mordi e Fuggi
+2022-05-21,161,lifestyle,111,it,long,it,2021-10-23,pc,132697,1,2022-05,Moderato,3,2,1,Esploratore
+2022-10-02,170,sport,113,fr,medium,fr,2021-10-07,mobile,32148,3,2022-10,Moderato,5,3,0,Esploratore
+2021-07-09,226,weather,119,fr,long,fr,2020-10-04,pc,731829,5,2021-07,Fedele,6,3,0,Super Lettore
+2023-05-14,227,weather,119,it,long,it,2022-02-17,pc,732335,4,2023-05,Occasionale,2,2,1,Mordi e Fuggi
+2022-07-15,113,news,112,en,medium,uk,2021-01-18,pc,623611,4,2022-07,Moderato,4,3,0,Esploratore
+2023-10-08,151,sport,111,fr,short,fr,2020-12-02,pc,311647,3,2023-10,Fedele,6,5,0,Super Lettore
+2023-12-09,150,news,110,en,short,uk,2021-04-01,pc,613641,5,2023-12,Moderato,3,2,1,Esploratore
+2023-04-13,97,news,117,fr,short,fr,2021-05-21,mobile,611148,1,2023-04,Occasionale,2,2,1,Mordi e Fuggi
+2023-02-01,114,weather,122,en,long,uk,2022-07-08,mobile,733621,5,2023-02,Fedele,7,4,2,Super Lettore
+2023-02-04,13,economy,114,it,short,it,2022-05-22,pc,212395,2,2023-02,Fedele,10,5,2,Super Lettore
+2023-04-13,33,weather,114,fr,medium,fr,2022-07-02,tablet,721803,4,2023-04,Fedele,7,2,0,Super Lettore
+2023-07-19,106,sport,116,en,long,uk,2022-12-23,mobile,333928,2,2023-07,Fedele,6,4,0,Super Lettore
+2022-05-24,69,finance,118,en,long,uk,2020-08-23,tablet,633348,1,2022-05,Moderato,4,3,0,Esploratore
+2023-05-25,228,weather,117,it,medium,it,2022-05-23,mobile,722540,1,2023-05,Moderato,3,3,1,Esploratore
+2022-10-13,46,news,114,en,short,uk,2021-05-08,mobile,613969,1,2022-10,Fedele,8,4,2,Super Lettore
+2023-01-20,57,weather,113,it,short,it,2020-07-11,mobile,71234,2,2023-01,Moderato,5,4,0,Esploratore
+2023-06-28,231,sport,121,it,short,it,2022-01-03,pc,312779,3,2023-06,Moderato,3,2,1,Esploratore
+2022-02-01,37,finance,121,it,short,it,2021-09-04,mobile,612295,2,2022-02,Occasionale,2,1,1,Mordi e Fuggi
+2023-05-15,118,economy,107,fr,long,fr,2021-04-27,pc,231353,5,2023-05,Moderato,5,4,0,Esploratore
+2023-08-01,167,sport,101,it,short,it,2022-09-27,pc,312583,2,2023-08,Moderato,3,2,1,Esploratore
+2022-02-22,182,finance,118,it,medium,it,2020-03-14,tablet,622797,3,2022-02,Moderato,3,3,1,Esploratore
+2022-07-25,146,weather,119,it,medium,it,2020-04-26,pc,722425,3,2022-07,Fedele,6,3,0,Super Lettore
+2023-07-26,29,weather,110,fr,long,fr,2021-07-06,pc,731715,3,2023-07,Moderato,3,3,1,Esploratore
+2022-12-19,102,weather,106,en,medium,uk,2021-05-10,tablet,72391,1,2022-12,Fedele,9,5,2,Super Lettore
+2023-12-06,93,weather,118,en,short,uk,2021-07-04,mobile,713778,5,2023-12,Moderato,5,4,0,Esploratore
+2022-08-25,169,economy,122,en,long,uk,2021-06-16,pc,23394,2,2022-08,Moderato,5,4,0,Esploratore
+2023-06-09,205,economy,120,it,long,it,2021-01-22,tablet,232259,2,2023-06,Fedele,6,4,0,Super Lettore
+2023-02-27,93,sport,114,it,short,it,2021-07-04,tablet,312109,4,2023-02,Moderato,5,4,0,Esploratore
+2023-01-14,137,art,117,it,medium,it,2022-03-01,mobile,52246,3,2023-01,Occasionale,1,1,1,Mordi e Fuggi
+2023-05-06,177,finance,116,fr,medium,fr,2022-03-17,mobile,621319,4,2023-05,Moderato,5,3,0,Esploratore
+2023-04-14,104,weather,112,it,long,it,2022-04-11,mobile,732108,2,2023-04,Fedele,6,3,0,Super Lettore
+2022-06-24,1,sport,119,en,medium,uk,2021-05-20,tablet,323922,4,2022-06,Occasionale,2,1,1,Mordi e Fuggi
+2023-12-16,72,economy,103,en,short,uk,2022-10-12,tablet,213851,5,2023-12,Fedele,7,5,2,Super Lettore
+2021-09-21,199,news,122,fr,short,fr,2020-07-27,tablet,61180,1,2021-09,Fedele,7,6,2,Super Lettore
+2022-07-12,221,art,118,fr,short,fr,2021-04-25,mobile,511813,4,2022-07,Fedele,7,5,2,Super Lettore
+2022-05-20,39,finance,115,en,medium,uk,2020-08-03,pc,623196,5,2022-05,Fedele,8,4,2,Super Lettore
+2023-12-23,51,finance,116,fr,long,fr,2022-07-09,pc,631594,5,2023-12,Fedele,10,6,2,Super Lettore
+2023-08-05,54,weather,109,it,long,it,2022-05-02,tablet,732248,2,2023-08,Occasionale,1,1,1,Mordi e Fuggi
+2023-09-03,81,sport,110,en,medium,uk,2022-08-23,tablet,323901,1,2023-09,Moderato,3,2,1,Esploratore
+2023-09-18,26,lifestyle,112,en,short,uk,2021-07-20,mobile,113121,4,2023-09,Moderato,4,3,0,Esploratore
+2022-10-22,128,weather,104,fr,medium,fr,2021-01-26,mobile,721206,1,2022-10,Moderato,4,4,0,Esploratore
+2023-04-17,48,finance,105,en,long,uk,2020-10-21,pc,63320,1,2023-04,Moderato,5,3,0,Esploratore
+2022-06-20,176,weather,106,it,short,it,2021-01-07,tablet,712588,2,2022-06,Occasionale,2,2,1,Mordi e Fuggi
+2022-10-01,149,weather,104,en,long,uk,2020-05-11,pc,733218,2,2022-10,Fedele,6,4,0,Super Lettore
+2023-01-04,174,sport,116,en,long,uk,2022-02-12,mobile,333948,3,2023-01,Moderato,4,3,0,Esploratore
+2023-05-11,72,lifestyle,107,it,short,it,2022-10-12,pc,112465,5,2023-05,Fedele,7,5,2,Super Lettore
+2023-09-06,235,weather,116,en,long,uk,2021-02-11,pc,733605,1,2023-09,Occasionale,1,1,1,Mordi e Fuggi
+2023-04-15,53,lifestyle,113,it,short,it,2020-10-08,mobile,112469,3,2023-04,Occasionale,2,1,1,Mordi e Fuggi
+2023-05-02,151,finance,112,en,medium,uk,2020-12-02,tablet,623434,1,2023-05,Fedele,6,5,0,Super Lettore
+2021-02-02,34,weather,111,en,long,uk,2020-12-10,pc,733136,5,2021-02,Fedele,6,3,0,Super Lettore
+2021-03-14,199,finance,117,it,short,it,2020-07-27,tablet,612544,1,2021-03,Fedele,7,6,2,Super Lettore
+2023-07-14,123,economy,115,it,short,it,2021-09-19,mobile,212847,1,2023-07,Fedele,6,6,2,Super Lettore
+2023-06-22,99,lifestyle,101,fr,short,fr,2022-01-20,pc,111302,3,2023-06,Fedele,6,4,0,Super Lettore
+2022-07-14,116,weather,118,en,long,uk,2021-10-09,pc,733415,3,2022-07,Moderato,4,2,1,Esploratore
+2023-01-28,144,weather,121,it,short,it,2020-04-13,tablet,712268,1,2023-01,Moderato,5,3,0,Esploratore
+2022-11-08,158,weather,122,it,long,it,2020-03-18,tablet,732643,1,2022-11,Moderato,3,3,1,Esploratore
+2021-03-01,181,lifestyle,101,en,medium,uk,2020-12-09,tablet,123846,3,2021-03,Fedele,10,6,2,Super Lettore
+2021-08-27,238,finance,111,en,long,uk,2020-09-16,tablet,633440,4,2021-08,Moderato,4,3,0,Esploratore
+2022-01-02,152,weather,108,en,medium,uk,2021-10-01,mobile,723682,1,2022-01,Moderato,3,2,1,Esploratore
+2023-07-01,98,art,105,fr,short,fr,2020-09-26,tablet,511197,2,2023-07,Fedele,10,5,2,Super Lettore
+2023-03-12,155,weather,107,it,long,it,2022-12-19,tablet,732830,3,2023-03,Moderato,4,3,0,Esploratore
+2023-02-28,10,sport,120,en,medium,uk,2022-08-05,mobile,323979,1,2023-02,Moderato,5,3,0,Esploratore
+2023-12-21,163,lifestyle,101,en,short,uk,2022-11-28,mobile,113623,4,2023-12,Fedele,7,4,2,Super Lettore
+2021-10-01,209,lifestyle,120,it,short,it,2020-07-06,pc,112793,5,2021-10,Fedele,7,4,2,Super Lettore
+2022-04-18,157,sport,106,en,medium,uk,2020-02-12,tablet,323911,2,2022-04,Fedele,12,6,2,Super Lettore
+2022-07-27,83,weather,110,en,medium,uk,2020-07-23,mobile,723599,2,2022-07,Moderato,3,3,1,Esploratore
+2022-07-04,232,weather,121,fr,medium,fr,2021-06-25,pc,721702,5,2022-07,Fedele,6,3,0,Super Lettore
+2023-01-11,226,sport,116,en,medium,uk,2020-10-04,tablet,323489,4,2023-01,Fedele,6,3,0,Super Lettore
+2021-10-22,111,sport,121,fr,short,fr,2020-09-01,tablet,311350,5,2021-10,Moderato,3,3,1,Esploratore
+2023-12-22,30,art,115,en,medium,uk,2021-01-23,tablet,523824,3,2023-12,Moderato,4,2,1,Esploratore
+2022-01-21,7,economy,101,fr,medium,fr,2021-09-01,pc,221681,5,2022-01,Moderato,4,3,0,Esploratore
+2023-07-23,146,finance,115,it,medium,it,2020-04-26,pc,622612,4,2023-07,Fedele,6,3,0,Super Lettore
+2023-10-10,118,sport,104,fr,long,fr,2021-04-27,pc,331155,2,2023-10,Moderato,5,4,0,Esploratore
+2022-01-06,38,weather,115,it,medium,it,2021-01-02,tablet,722769,5,2022-01,Moderato,4,2,1,Esploratore
+2023-10-13,148,weather,117,fr,short,fr,2021-04-24,pc,711374,3,2023-10,Fedele,6,4,0,Super Lettore
+2023-11-23,90,sport,115,it,long,it,2022-03-13,tablet,332489,3,2023-11,Fedele,8,3,2,Super Lettore
+2022-05-05,192,sport,122,en,medium,uk,2020-05-01,tablet,323392,3,2022-05,Moderato,4,2,1,Esploratore
+2022-05-04,187,finance,113,it,long,it,2020-05-03,pc,632886,1,2022-05,Fedele,7,3,2,Super Lettore
+2023-01-23,2,sport,110,it,long,it,2022-01-06,pc,332118,3,2023-01,Fedele,6,5,0,Super Lettore
+2023-09-04,47,finance,121,en,medium,uk,2022-08-10,tablet,623752,4,2023-09,Moderato,4,3,0,Esploratore
+2022-06-18,111,weather,108,en,long,uk,2020-09-01,tablet,733203,2,2022-06,Moderato,3,3,1,Esploratore
+2023-04-18,68,weather,114,en,long,uk,2020-12-14,mobile,73364,2,2023-04,Moderato,5,3,0,Esploratore
+2022-08-18,127,sport,113,it,medium,it,2021-05-26,tablet,322578,1,2022-08,Occasionale,2,2,1,Mordi e Fuggi
+2022-02-26,115,economy,118,en,short,uk,2020-01-08,mobile,213188,4,2022-02,Fedele,9,5,2,Super Lettore
+2023-10-10,158,finance,122,en,medium,uk,2020-03-18,mobile,623923,5,2023-10,Moderato,3,3,1,Esploratore
+2022-02-23,186,weather,111,it,long,it,2020-08-12,tablet,732303,1,2022-02,Moderato,4,4,0,Esploratore
+2021-03-19,115,sport,113,it,medium,it,2020-01-08,mobile,32221,2,2021-03,Fedele,9,5,2,Super Lettore
+2021-11-21,84,weather,105,fr,long,fr,2020-06-09,tablet,731711,3,2021-11,Moderato,3,2,1,Esploratore
+2021-01-20,146,weather,113,fr,long,fr,2020-04-26,mobile,731833,1,2021-01,Fedele,6,3,0,Super Lettore
+2022-01-19,49,weather,102,it,medium,it,2020-10-24,tablet,722581,4,2022-01,Moderato,4,3,0,Esploratore
+2022-12-09,229,weather,109,it,short,it,2021-04-24,tablet,712218,3,2022-12,Moderato,5,5,0,Esploratore
+2023-12-06,120,lifestyle,111,it,short,it,2021-09-23,pc,112475,1,2023-12,Fedele,6,5,0,Super Lettore
+2023-07-01,82,art,108,en,long,uk,2022-01-21,mobile,533263,2,2023-07,Fedele,6,4,0,Super Lettore
+2023-09-01,29,art,112,en,long,uk,2021-07-06,tablet,533334,5,2023-09,Moderato,3,3,1,Esploratore
+2023-11-06,208,sport,121,it,short,it,2022-11-20,tablet,312833,3,2023-11,Fedele,6,3,0,Super Lettore
+2022-03-08,75,finance,101,en,short,uk,2021-07-20,tablet,613540,3,2022-03,Moderato,4,4,0,Esploratore
+2023-11-02,40,news,100,en,short,uk,2021-09-08,mobile,613186,1,2023-11,Fedele,6,4,0,Super Lettore
+2023-10-27,79,art,114,it,short,it,2020-12-12,mobile,512174,1,2023-10,Moderato,3,3,1,Esploratore
+2023-04-13,121,weather,104,it,short,it,2020-11-03,pc,712471,5,2023-04,Moderato,5,3,0,Esploratore
+2022-06-07,233,weather,109,en,long,uk,2021-06-11,tablet,733790,2,2022-06,Moderato,4,4,0,Esploratore
+2023-01-01,188,finance,118,it,long,it,2022-06-13,tablet,632953,3,2023-01,Fedele,6,3,0,Super Lettore
+2023-01-04,82,finance,100,fr,short,fr,2022-01-21,pc,61188,2,2023-01,Fedele,6,4,0,Super Lettore
+2022-08-04,199,art,101,it,long,it,2020-07-27,pc,532584,3,2022-08,Fedele,7,6,2,Super Lettore
+2022-05-13,85,weather,118,it,short,it,2020-03-28,tablet,712994,1,2022-05,Moderato,4,3,0,Esploratore
+2023-12-19,119,finance,122,en,short,uk,2022-08-25,pc,613551,4,2023-12,Moderato,5,3,0,Esploratore
+2023-08-04,143,weather,114,it,short,it,2022-05-22,pc,712385,4,2023-08,Fedele,6,2,0,Super Lettore
+2022-09-16,73,sport,103,it,short,it,2020-11-14,pc,31273,3,2022-09,Moderato,5,3,0,Esploratore
+2022-01-02,149,economy,106,it,long,it,2020-05-11,mobile,232990,3,2022-01,Fedele,6,4,0,Super Lettore
+2021-06-05,73,weather,117,fr,short,fr,2020-11-14,tablet,711601,2,2021-06,Moderato,5,3,0,Esploratore
+2023-02-12,223,news,105,fr,long,fr,2020-12-01,pc,63178,1,2023-02,Occasionale,2,2,1,Mordi e Fuggi
+2022-12-22,18,weather,118,it,short,it,2021-12-14,tablet,712724,1,2022-12,Fedele,9,4,2,Super Lettore
+2023-07-17,178,weather,118,it,short,it,2022-06-15,mobile,712992,3,2023-07,Moderato,4,3,0,Esploratore
+2021-03-24,44,lifestyle,115,en,long,uk,2020-12-09,tablet,133337,2,2021-03,Moderato,5,4,0,Esploratore
+2023-09-11,132,sport,117,en,long,uk,2022-07-25,tablet,333217,3,2023-09,Moderato,5,2,0,Esploratore
+2023-06-20,77,news,108,fr,medium,fr,2020-06-01,tablet,621606,5,2023-06,Moderato,5,4,0,Esploratore
+2023-02-04,150,economy,115,it,medium,it,2021-04-01,pc,222921,4,2023-02,Moderato,3,2,1,Esploratore
+2023-09-17,168,weather,111,en,long,uk,2022-10-15,tablet,733967,5,2023-09,Moderato,4,3,0,Esploratore
+2023-12-17,190,weather,104,en,short,uk,2021-06-28,tablet,713263,2,2023-12,Moderato,5,4,0,Esploratore
+2023-05-12,120,sport,105,fr,short,fr,2021-09-23,tablet,311157,1,2023-05,Fedele,6,5,0,Super Lettore
+2021-02-17,187,finance,116,it,long,it,2020-05-03,mobile,632483,1,2021-02,Fedele,7,3,2,Super Lettore
+2022-04-17,29,economy,113,en,long,uk,2021-07-06,tablet,233154,1,2022-04,Moderato,3,3,1,Esploratore
+2021-11-14,34,finance,113,it,medium,it,2020-12-10,pc,622676,4,2021-11,Fedele,6,3,0,Super Lettore
+2023-02-12,157,news,120,it,long,it,2020-02-12,tablet,632984,3,2023-02,Fedele,12,6,2,Super Lettore
+2022-04-03,211,weather,122,it,short,it,2021-10-17,mobile,712432,5,2022-04,Moderato,5,2,0,Esploratore
+2023-07-11,39,sport,101,en,medium,uk,2020-08-03,tablet,323818,3,2023-07,Fedele,8,4,2,Super Lettore
+2021-07-26,145,finance,106,en,long,uk,2020-01-13,mobile,633861,3,2021-07,Fedele,7,4,2,Super Lettore
+2023-04-20,125,weather,121,fr,long,fr,2021-04-17,pc,731304,3,2023-04,Moderato,3,3,1,Esploratore
+2021-11-21,151,lifestyle,110,it,long,it,2020-12-02,tablet,132103,1,2021-11,Fedele,6,5,0,Super Lettore
+2023-09-23,143,weather,106,it,medium,it,2022-05-22,tablet,722128,1,2023-09,Fedele,6,2,0,Super Lettore
+2023-03-10,196,finance,118,it,long,it,2022-06-04,pc,632249,2,2023-03,Moderato,4,4,0,Esploratore
+2023-11-12,130,finance,122,it,long,it,2021-02-10,pc,632604,5,2023-11,Moderato,4,3,0,Esploratore
+2022-11-18,244,weather,100,fr,long,fr,2021-05-25,pc,731818,4,2022-11,Moderato,3,2,1,Esploratore
+2023-06-07,151,weather,106,fr,medium,fr,2020-12-02,pc,721307,2,2023-06,Fedele,6,5,0,Super Lettore
+2023-09-17,10,weather,120,it,medium,it,2022-08-05,tablet,722438,5,2023-09,Moderato,5,3,0,Esploratore
+2023-10-18,122,sport,102,it,long,it,2022-12-17,pc,332264,5,2023-10,Moderato,4,2,1,Esploratore
+2022-08-28,211,weather,116,en,short,uk,2021-10-17,mobile,713220,2,2022-08,Moderato,5,2,0,Esploratore
+2023-08-25,100,news,120,en,short,uk,2022-02-02,pc,613859,3,2023-08,Fedele,6,3,0,Super Lettore
+2023-09-07,135,lifestyle,111,en,long,uk,2021-08-16,mobile,133754,5,2023-09,Fedele,8,3,2,Super Lettore
+2023-11-22,52,weather,122,fr,short,fr,2022-03-15,tablet,711866,4,2023-11,Moderato,4,2,1,Esploratore
+2022-08-19,148,sport,120,it,short,it,2021-04-24,pc,312938,5,2022-08,Fedele,6,4,0,Super Lettore
+2023-09-10,116,weather,115,en,short,uk,2021-10-09,mobile,713915,5,2023-09,Moderato,4,2,1,Esploratore
+2023-09-11,140,sport,118,it,medium,it,2021-10-03,tablet,322191,4,2023-09,Fedele,6,5,0,Super Lettore
+2023-01-19,160,weather,104,fr,long,fr,2021-01-01,tablet,731425,5,2023-01,Moderato,3,3,1,Esploratore
+2023-02-09,15,economy,109,it,medium,it,2022-05-13,tablet,222240,5,2023-02,Fedele,6,5,0,Super Lettore
+2023-05-24,35,finance,105,fr,long,fr,2022-07-19,pc,631655,4,2023-05,Moderato,5,3,0,Esploratore
+2023-11-09,72,weather,120,it,long,it,2022-10-12,tablet,732232,1,2023-11,Fedele,7,5,2,Super Lettore
+2023-02-25,211,weather,114,fr,long,fr,2021-10-17,pc,7319,5,2023-02,Moderato,5,2,0,Esploratore
+2023-09-20,123,weather,107,en,long,uk,2021-09-19,tablet,733486,5,2023-09,Fedele,6,6,2,Super Lettore
+2022-11-01,170,art,102,en,long,uk,2021-10-07,tablet,533205,3,2022-11,Moderato,5,3,0,Esploratore
+2022-05-27,66,news,122,en,medium,uk,2020-03-19,mobile,623838,5,2022-05,Moderato,4,3,0,Esploratore
+2023-06-20,104,economy,106,fr,short,fr,2022-04-11,pc,21191,4,2023-06,Fedele,6,3,0,Super Lettore
+2023-10-02,195,sport,100,it,long,it,2022-12-09,mobile,332279,3,2023-10,Fedele,6,3,0,Super Lettore
+2022-04-06,113,finance,122,en,short,uk,2021-01-18,mobile,613944,4,2022-04,Moderato,4,3,0,Esploratore
+2022-11-19,125,lifestyle,108,en,long,uk,2021-04-17,tablet,133809,5,2022-11,Moderato,3,3,1,Esploratore
+2023-07-01,71,economy,115,it,long,it,2021-05-10,mobile,232491,5,2023-07,Moderato,5,3,0,Esploratore
+2023-06-21,62,finance,110,en,long,uk,2022-09-03,mobile,633157,2,2023-06,Occasionale,2,2,1,Mordi e Fuggi
+2023-03-06,242,finance,109,fr,medium,fr,2021-10-06,pc,621928,3,2023-03,Occasionale,2,1,1,Mordi e Fuggi
+2022-03-07,189,economy,114,en,short,uk,2021-06-05,pc,21315,2,2022-03,Moderato,4,3,0,Esploratore
+2023-10-20,169,sport,104,fr,long,fr,2021-06-16,pc,331970,1,2023-10,Moderato,5,4,0,Esploratore
+2023-10-23,232,art,104,it,medium,it,2021-06-25,pc,522575,5,2023-10,Fedele,6,3,0,Super Lettore
+2023-07-09,100,finance,114,en,short,uk,2022-02-02,pc,6135,5,2023-07,Fedele,6,3,0,Super Lettore
+2021-08-05,226,weather,112,it,short,it,2020-10-04,mobile,712699,4,2021-08,Fedele,6,3,0,Super Lettore
+2023-04-05,47,art,111,it,short,it,2022-08-10,pc,512352,5,2023-04,Moderato,4,3,0,Esploratore
+2023-05-28,46,economy,116,it,long,it,2021-05-08,tablet,232700,2,2023-05,Fedele,8,4,2,Super Lettore
+2022-04-26,61,finance,106,en,medium,uk,2020-08-09,pc,623229,5,2022-04,Moderato,4,3,0,Esploratore
+2023-05-26,98,news,105,en,long,uk,2020-09-26,pc,633180,1,2023-05,Fedele,10,5,2,Super Lettore
+2023-04-14,23,lifestyle,115,it,medium,it,2021-09-20,tablet,122588,2,2023-04,Moderato,3,2,1,Esploratore
+2022-07-08,46,economy,112,it,medium,it,2021-05-08,pc,222237,4,2022-07,Fedele,8,4,2,Super Lettore
+2022-07-25,42,lifestyle,116,en,short,uk,2021-03-06,tablet,113415,4,2022-07,Moderato,3,3,1,Esploratore
+2021-11-25,239,sport,119,en,long,uk,2020-02-04,pc,333782,5,2021-11,Moderato,5,3,0,Esploratore
+2023-05-08,13,weather,111,it,long,it,2022-05-22,mobile,732271,1,2023-05,Fedele,10,5,2,Super Lettore
+2022-07-06,157,weather,103,it,medium,it,2020-02-12,mobile,72294,1,2022-07,Fedele,12,6,2,Super Lettore
+2021-11-25,172,finance,122,it,medium,it,2020-04-22,pc,622992,4,2021-11,Fedele,6,4,0,Super Lettore
+2023-11-14,236,news,114,it,short,it,2022-05-19,pc,612779,5,2023-11,Occasionale,2,2,1,Mordi e Fuggi
+2023-09-02,80,weather,120,it,medium,it,2021-07-07,mobile,722985,1,2023-09,Fedele,6,4,0,Super Lettore
+2022-01-13,222,lifestyle,100,fr,short,fr,2021-05-05,pc,111217,5,2022-01,Moderato,4,4,0,Esploratore
+2022-10-26,112,lifestyle,100,it,long,it,2021-05-21,pc,132856,4,2022-10,Occasionale,1,1,1,Mordi e Fuggi
+2023-05-15,22,weather,100,it,medium,it,2022-01-25,pc,722428,1,2023-05,Moderato,4,2,1,Esploratore
+2023-05-22,241,news,102,it,long,it,2022-05-11,pc,632282,5,2023-05,Fedele,10,4,2,Super Lettore
+2022-04-04,56,weather,112,it,long,it,2020-09-28,mobile,732328,4,2022-04,Occasionale,1,1,1,Mordi e Fuggi
+2023-07-07,77,weather,110,fr,long,fr,2020-06-01,tablet,731583,4,2023-07,Moderato,5,4,0,Esploratore
+2022-01-09,206,weather,110,fr,medium,fr,2020-11-07,pc,721960,4,2022-01,Moderato,4,2,1,Esploratore
+2023-05-17,51,sport,114,en,short,uk,2022-07-09,pc,313246,4,2023-05,Fedele,10,6,2,Super Lettore
+2023-04-28,20,weather,101,fr,long,fr,2020-02-10,tablet,731595,3,2023-04,Moderato,3,2,1,Esploratore
+2023-08-09,173,sport,108,en,short,uk,2021-12-12,mobile,313173,3,2023-08,Moderato,3,2,1,Esploratore
+2022-11-27,27,weather,106,fr,long,fr,2021-01-12,tablet,731489,2,2022-11,Moderato,3,2,1,Esploratore
+2022-05-14,39,weather,119,it,short,it,2020-08-03,mobile,712344,5,2022-05,Fedele,8,4,2,Super Lettore
+2021-12-01,61,weather,114,fr,long,fr,2020-08-09,pc,731540,1,2021-12,Moderato,4,3,0,Esploratore
+2022-04-05,113,news,110,en,long,uk,2021-01-18,pc,633511,5,2022-04,Moderato,4,3,0,Esploratore
+2022-05-18,91,weather,109,it,long,it,2020-03-02,tablet,732391,1,2022-05,Occasionale,1,1,1,Mordi e Fuggi
+2022-06-13,221,lifestyle,111,en,long,uk,2021-04-25,pc,133729,2,2022-06,Fedele,7,5,2,Super Lettore
+2023-07-09,205,news,102,en,short,uk,2021-01-22,pc,613555,3,2023-07,Fedele,6,4,0,Super Lettore
+2023-09-11,174,weather,114,en,short,uk,2022-02-12,mobile,713829,4,2023-09,Moderato,4,3,0,Esploratore
+2021-02-19,94,weather,115,it,short,it,2020-03-24,mobile,712644,2,2021-02,Fedele,6,4,0,Super Lettore
+2022-05-19,149,finance,116,fr,long,fr,2020-05-11,tablet,631234,4,2022-05,Fedele,6,4,0,Super Lettore
+2023-02-12,155,sport,121,fr,short,fr,2022-12-19,pc,311487,1,2023-02,Moderato,4,3,0,Esploratore
+2022-07-23,220,weather,112,en,long,uk,2021-11-05,pc,733780,3,2022-07,Occasionale,1,1,1,Mordi e Fuggi
+2023-10-08,154,news,115,en,long,uk,2022-06-27,tablet,633985,4,2023-10,Moderato,4,3,0,Esploratore
+2021-12-05,139,economy,110,fr,short,fr,2020-03-28,pc,21147,1,2021-12,Moderato,4,4,0,Esploratore
+2023-06-28,164,economy,120,en,medium,uk,2021-02-20,pc,223662,2,2023-06,Moderato,4,3,0,Esploratore
+2022-12-05,80,weather,106,fr,medium,fr,2021-07-07,pc,721161,1,2022-12,Fedele,6,4,0,Super Lettore
+2023-09-16,87,weather,122,fr,long,fr,2021-09-12,pc,731517,5,2023-09,Moderato,3,3,1,Esploratore
+2023-07-08,119,weather,102,it,short,it,2022-08-25,tablet,712460,2,2023-07,Moderato,5,3,0,Esploratore
+2023-05-09,240,news,111,en,short,uk,2021-01-15,pc,613588,1,2023-05,Fedele,6,4,0,Super Lettore
+2023-05-14,126,weather,111,it,short,it,2022-03-02,pc,712950,3,2023-05,Moderato,4,4,0,Esploratore
+2023-06-28,13,economy,113,fr,short,fr,2022-05-22,tablet,211576,2,2023-06,Fedele,10,5,2,Super Lettore
+2023-12-12,80,weather,114,it,long,it,2021-07-07,pc,732151,4,2023-12,Fedele,6,4,0,Super Lettore
+2023-02-24,133,sport,120,en,long,uk,2022-07-19,pc,333302,2,2023-02,Moderato,4,3,0,Esploratore
+2023-04-24,98,weather,122,en,long,uk,2020-09-26,tablet,73363,2,2023-04,Fedele,10,5,2,Super Lettore
+2023-07-22,164,finance,107,fr,short,fr,2021-02-20,tablet,611238,5,2023-07,Moderato,4,3,0,Esploratore
+2023-03-10,33,economy,119,fr,medium,fr,2022-07-02,mobile,221158,5,2023-03,Fedele,7,2,0,Super Lettore
+2023-09-26,154,economy,121,fr,long,fr,2022-06-27,tablet,23139,1,2023-09,Moderato,4,3,0,Esploratore
+2023-11-11,115,economy,112,en,long,uk,2020-01-08,tablet,233174,4,2023-11,Fedele,9,5,2,Super Lettore
+2023-04-05,156,finance,109,en,long,uk,2022-02-18,mobile,633857,4,2023-04,Moderato,4,3,0,Esploratore
+2023-10-25,82,art,108,en,long,uk,2022-01-21,tablet,53394,1,2023-10,Fedele,6,4,0,Super Lettore
+2022-04-08,102,sport,103,en,long,uk,2021-05-10,tablet,333396,4,2022-04,Fedele,9,5,2,Super Lettore
+2023-09-24,21,weather,101,fr,long,fr,2021-07-11,pc,7316,5,2023-09,Moderato,3,1,1,Esploratore
+2023-10-14,33,weather,122,fr,medium,fr,2022-07-02,pc,721392,4,2023-10,Fedele,7,2,0,Super Lettore
+2023-09-26,133,lifestyle,111,fr,short,fr,2022-07-19,pc,111173,1,2023-09,Moderato,4,3,0,Esploratore
+2023-06-15,199,weather,119,en,long,uk,2020-07-27,tablet,733722,3,2023-06,Fedele,7,6,2,Super Lettore
+2023-01-09,142,weather,113,fr,long,fr,2022-05-20,mobile,731734,5,2023-01,Fedele,6,3,0,Super Lettore
+2023-04-10,129,news,105,fr,short,fr,2022-11-10,tablet,611121,4,2023-04,Occasionale,1,1,1,Mordi e Fuggi
+2023-07-20,75,weather,108,fr,medium,fr,2021-07-20,mobile,721296,3,2023-07,Moderato,4,4,0,Esploratore
+2023-10-12,219,sport,108,en,medium,uk,2021-12-24,tablet,323756,3,2023-10,Fedele,8,6,2,Super Lettore
+2023-08-18,32,finance,103,en,medium,uk,2022-03-07,pc,623536,3,2023-08,Occasionale,2,2,1,Mordi e Fuggi
+2023-09-09,13,sport,105,fr,medium,fr,2022-05-22,pc,321505,3,2023-09,Fedele,10,5,2,Super Lettore
+2023-06-05,245,weather,100,fr,medium,fr,2022-11-28,pc,721793,3,2023-06,Moderato,4,4,0,Esploratore
+2022-12-05,67,sport,100,fr,long,fr,2020-10-01,tablet,331909,2,2022-12,Moderato,3,2,1,Esploratore
+2023-08-12,48,finance,116,it,medium,it,2020-10-21,tablet,622850,3,2023-08,Moderato,5,3,0,Esploratore
+2023-10-18,71,economy,104,fr,long,fr,2021-05-10,pc,231611,1,2023-10,Moderato,5,3,0,Esploratore
+2021-10-18,207,sport,120,en,long,uk,2020-01-11,pc,333415,4,2021-10,Moderato,4,3,0,Esploratore
+2023-10-24,237,sport,107,it,short,it,2022-03-23,mobile,312697,2,2023-10,Fedele,6,4,0,Super Lettore
+2023-04-19,218,lifestyle,109,fr,medium,fr,2021-02-16,tablet,121640,5,2023-04,Moderato,4,3,0,Esploratore
+2023-06-24,180,weather,117,en,short,uk,2021-02-08,pc,713516,4,2023-06,Moderato,3,2,1,Esploratore
+2021-08-10,16,weather,107,en,long,uk,2020-04-02,tablet,733825,1,2021-08,Moderato,3,2,1,Esploratore
+2023-06-01,241,weather,118,it,long,it,2022-05-11,tablet,732996,3,2023-06,Fedele,10,4,2,Super Lettore
+2022-07-01,209,weather,113,en,medium,uk,2020-07-06,tablet,723764,2,2022-07,Fedele,7,4,2,Super Lettore
+2021-01-27,48,weather,114,it,medium,it,2020-10-21,tablet,722526,5,2021-01,Moderato,5,3,0,Esploratore
+2023-03-06,88,weather,113,fr,medium,fr,2022-11-12,pc,721131,4,2023-03,Occasionale,2,1,1,Mordi e Fuggi
+2022-02-05,34,weather,118,en,short,uk,2020-12-10,mobile,713758,1,2022-02,Fedele,6,3,0,Super Lettore
+2022-12-26,14,art,104,it,long,it,2021-01-14,pc,532626,1,2022-12,Fedele,7,6,2,Super Lettore
+2023-06-10,64,sport,121,fr,long,fr,2022-11-04,tablet,331899,4,2023-06,Moderato,4,4,0,Esploratore
+2023-12-11,35,sport,121,it,long,it,2022-07-19,tablet,332992,1,2023-12,Moderato,5,3,0,Esploratore
+2022-02-24,191,news,119,en,short,uk,2021-05-15,mobile,613745,3,2022-02,Moderato,4,3,0,Esploratore
+2022-05-07,102,economy,116,it,short,it,2021-05-10,tablet,212391,2,2022-05,Fedele,9,5,2,Super Lettore
+2023-02-11,69,news,102,fr,long,fr,2020-08-23,tablet,631990,5,2023-02,Moderato,4,3,0,Esploratore
+2022-05-15,116,finance,107,it,long,it,2021-10-09,pc,632442,2,2022-05,Moderato,4,2,1,Esploratore
+2023-03-12,97,weather,103,it,short,it,2021-05-21,tablet,712662,1,2023-03,Occasionale,2,2,1,Mordi e Fuggi
+2023-06-07,104,weather,117,it,short,it,2022-04-11,mobile,712420,3,2023-06,Fedele,6,3,0,Super Lettore
+2022-05-22,191,finance,108,fr,short,fr,2021-05-15,pc,611366,1,2022-05,Moderato,4,3,0,Esploratore
+2022-10-23,70,weather,111,it,long,it,2021-12-03,mobile,732837,4,2022-10,Occasionale,2,1,1,Mordi e Fuggi
+2021-09-06,19,sport,107,en,short,uk,2020-04-12,tablet,313793,1,2021-09,Fedele,6,2,0,Super Lettore
+2022-09-05,141,weather,100,it,long,it,2021-05-23,mobile,73242,5,2022-09,Moderato,4,3,0,Esploratore
+2022-12-23,6,finance,115,fr,short,fr,2020-09-14,pc,611531,2,2022-12,Fedele,7,4,2,Super Lettore
+2023-07-27,39,weather,112,it,long,it,2020-08-03,pc,732301,3,2023-07,Fedele,8,4,2,Super Lettore
+2022-07-28,181,news,110,it,long,it,2020-12-09,tablet,632862,1,2022-07,Fedele,10,6,2,Super Lettore
+2023-11-22,41,finance,107,en,medium,uk,2021-08-01,pc,623407,3,2023-11,Moderato,5,4,0,Esploratore
+2023-02-04,219,finance,117,en,short,uk,2021-12-24,pc,613316,2,2023-02,Fedele,8,6,2,Super Lettore
+2023-08-24,8,lifestyle,113,it,medium,it,2022-04-23,tablet,122603,3,2023-08,Moderato,4,4,0,Esploratore
+2023-01-19,2,sport,103,it,long,it,2022-01-06,tablet,332398,3,2023-01,Fedele,6,5,0,Super Lettore
+2022-09-11,209,sport,121,it,short,it,2020-07-06,pc,312991,4,2022-09,Fedele,7,4,2,Super Lettore
+2023-08-05,210,sport,114,en,medium,uk,2022-09-24,pc,323869,4,2023-08,Moderato,4,4,0,Esploratore
+2023-09-27,14,economy,103,en,medium,uk,2021-01-14,tablet,223666,5,2023-09,Fedele,7,6,2,Super Lettore
+2021-11-22,77,weather,106,it,long,it,2020-06-01,mobile,732297,5,2021-11,Moderato,5,4,0,Esploratore
+2023-11-04,105,news,115,it,long,it,2022-01-25,mobile,632230,2,2023-11,Moderato,5,4,0,Esploratore
+2021-09-26,224,economy,117,it,short,it,2020-06-04,pc,212474,4,2021-09,Moderato,3,3,1,Esploratore
+2023-12-20,92,news,107,en,short,uk,2021-10-24,pc,613798,4,2023-12,Occasionale,2,1,1,Mordi e Fuggi
+2022-04-06,141,sport,121,fr,long,fr,2021-05-23,tablet,331664,1,2022-04,Moderato,4,3,0,Esploratore
+2022-06-10,128,lifestyle,103,en,long,uk,2021-01-26,tablet,133912,5,2022-06,Moderato,4,4,0,Esploratore
+2023-01-17,241,finance,105,it,short,it,2022-05-11,pc,61261,5,2023-01,Fedele,10,4,2,Super Lettore
+2023-10-04,162,finance,109,it,short,it,2022-09-06,tablet,612311,4,2023-10,Moderato,5,3,0,Esploratore
+2022-04-28,80,news,113,it,short,it,2021-07-07,tablet,612214,1,2022-04,Fedele,6,4,0,Super Lettore
+2023-05-04,51,art,105,fr,long,fr,2022-07-09,pc,531180,1,2023-05,Fedele,10,6,2,Super Lettore
+2022-07-01,24,finance,119,it,short,it,2020-09-09,tablet,612382,4,2022-07,Moderato,3,3,1,Esploratore
+2022-05-11,39,sport,104,fr,long,fr,2020-08-03,pc,331391,2,2022-05,Fedele,8,4,2,Super Lettore
+2023-08-20,177,sport,106,en,long,uk,2022-03-17,pc,333744,4,2023-08,Moderato,5,3,0,Esploratore
+2023-11-17,14,finance,111,en,long,uk,2021-01-14,tablet,633445,5,2023-11,Fedele,7,6,2,Super Lettore
+2023-03-12,15,art,105,fr,short,fr,2022-05-13,pc,511321,2,2023-03,Fedele,6,5,0,Super Lettore
+2023-09-18,87,economy,105,it,medium,it,2021-09-12,mobile,222968,4,2023-09,Moderato,3,3,1,Esploratore
+2022-10-10,67,weather,120,en,short,uk,2020-10-01,pc,713181,5,2022-10,Moderato,3,2,1,Esploratore
+2023-07-15,211,weather,119,en,medium,uk,2021-10-17,tablet,72370,4,2023-07,Moderato,5,2,0,Esploratore
+2023-09-16,18,economy,107,it,medium,it,2021-12-14,mobile,222669,2,2023-09,Fedele,9,4,2,Super Lettore
+2021-10-05,138,lifestyle,116,it,long,it,2020-04-06,mobile,132857,1,2021-10,Moderato,4,4,0,Esploratore
+2023-03-09,98,economy,108,en,medium,uk,2020-09-26,pc,223747,1,2023-03,Fedele,10,5,2,Super Lettore
+2023-04-04,7,weather,117,it,long,it,2021-09-01,mobile,732418,2,2023-04,Moderato,4,3,0,Esploratore
+2023-06-19,195,economy,105,it,medium,it,2022-12-09,tablet,22242,2,2023-06,Fedele,6,3,0,Super Lettore
+2023-09-24,126,art,100,en,long,uk,2022-03-02,pc,533633,3,2023-09,Moderato,4,4,0,Esploratore
+2023-11-01,52,weather,110,en,short,uk,2022-03-15,pc,713633,3,2023-11,Moderato,4,2,1,Esploratore
+2023-05-21,167,finance,107,it,long,it,2022-09-27,tablet,632750,1,2023-05,Moderato,3,2,1,Esploratore
+2023-03-16,26,weather,116,en,long,uk,2021-07-20,tablet,733281,3,2023-03,Moderato,4,3,0,Esploratore
+2023-07-25,101,sport,115,fr,short,fr,2021-05-06,tablet,311522,2,2023-07,Moderato,4,4,0,Esploratore
